@@ -1,0 +1,123 @@
+\documentclass[11pt, titlepage]{article}
+
+\usepackage[margin=2cm]{geometry} % change default margins
+\linespread{1.5} % 1.5 spacing
+
+\usepackage{natbib}
+\usepackage{pgfgantt}
+
+
+% Set font to Arial
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+\title{Using acoustic monitoring and machine learning to 
+automate the detection of illegal logging and hunting in 
+Costa Rica}
+\author{Jacob Griffiths\\
+[1cm]{\small Supervisor: Dr Cristina Banks-Leite}\\
+{\small Co-supervisor: Dr James Rosindell}}
+\date{}
+\begin{document}
+  \maketitle
+
+
+  \section*{Introduction}
+    Passive audio monitoring is becoming a useful tool for 
+    conservationists as it allows huge amounts of data 
+    to be collected at an increasingly low cost \citep{Hill2018}. 
+    The automation of the processing of this data through machine
+    learning is improving the use to conservationists further
+    as many human hours can be saved with similar or lower error 
+    rates \citep{Kalan2015}.
+    In Costa Rica, these techniques have already been used to 
+    track endangered species like the Geoffroys spider monkey,
+    \textit{Ateles geoffroyi}, resulting
+    in a large audio dataset, predominantly collected by Jenna
+    Lawson. If machine learning can be successfully applied to 
+    this dataset, it would save a lot of conservationist time and
+    potentially reduce the rates of illegal activity in protected
+    areas of Costa Rica.
+
+
+
+  \section*{Materials \& methods}
+    The dataset for this project has been provided by Jenna
+    Lawson. It consists of data obtained from over 200 different sites, 
+    from fully protected areas, areas with limited protection, and 
+    areas with no protection. Each site has at least one week 
+    of audio data available for it and the devices used are the same 
+    as those used by \cite{Hill2018}.
+    A training dataset has also been provided by \cite{Hill2018}
+    who used similar techniques to automatically detect gunshots
+    in Belize. Training data for both chainsaw and dog barking
+    noises will need to be sourced. 
+    Python will be used to write the code as it has proved an intuitive
+    and robust language for machine learning when packages such as 
+    scikit-learn are used. Audio data will be converted to a 
+    visual representation, a spectogram, which the algorithm
+    will learn to find patterns in, rather than using the audio
+    directly.
+
+
+  \section*{Anticipated outcomes}
+    I hope to create a fully-functioning machine learning 
+    algorithm that can detect gunshot, chainsaw and dog barking 
+    noises when presented with audio data from the rainforest,
+    with the lowest error rate possible. I anticipate that 
+    gunshot detection is the most likely to be successful as
+    I have a training dataset already and in general, gunshots
+    are quite a distinct noise to hear in a rainforest. Chainsaws 
+    may be slightly harder to identify as they could be confused 
+    with other motor sounds such as cars and motorbikes but it
+    may be possible to train these other sounds out.
+
+
+
+  \section*{Feasibility}
+    A similar project was undertaken by Duncan last year, with 
+    limited success. However, he didn't have a training dataset
+    and this is a crucial aspect of creating a successful
+    machine learning algorithm and makes this project a lot 
+    more feasible. Furthermore, the study by \cite{Hill2018} has
+    shown it can be done, for gunshots at least.
+
+
+    \begin{ganttchart}[y unit title=0.5cm,
+			y unit chart=0.75cm,
+			vgrid,hgrid, 			
+			title label anchor/.style={below=-1.6ex},
+			title height=1.1,
+			bar/.style={fill=blue!50},
+			incomplete/.style={fill=green},
+			bar height=.6]{1}{24}
+			\gantttitle{Project timeline}{24}\\
+			\gantttitle{April}{4}
+			\gantttitle{May}{4}
+			\gantttitle{June}{4}
+			\gantttitle{July}{4}
+			\gantttitle{August}{4}
+			\gantttitle{September}{4}\\
+			\ganttbar{Literature review}{1}{6} \\
+			\ganttbar{Machine learning course}{1}{6} \\
+			\ganttbar{Writing and training algorithms}{5}{12} \\
+			\ganttbar{Evaluating algorithms}{10}{16} \\
+			\ganttbar{Write up}{16}{20} \\
+			\ganttbar{Presentation and viva}{21}{24}
+			
+
+		\end{ganttchart}
+
+
+  \section*{Budget}
+    At this moment in time, neither myself or my supervisors
+    see any potential expenses for this project. If any software
+    or data does require a fee, I will submit a request if and when
+    necessary.
+
+
+
+
+  \bibliographystyle{agsm}
+  \bibliography{Project}
+\end{document}
