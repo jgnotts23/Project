@@ -1,16 +1,17 @@
 # Fdb version 3
-["bibtex Proposal"] 1554405896 "Proposal.aux" "Proposal.bbl" "Proposal" 1554406346
+["bibtex Proposal"] 1556271570 "Proposal.aux" "Proposal.bbl" "Proposal" 1556271570
   "/usr/share/texlive/texmf-dist/bibtex/bst/harvard/agsm.bst" 1136766823 25549 e3d0f1ab4ae55e777f7352db30e2c6f7 ""
-  "Project.bib" 1554404798 38796 72cd9aa6708d4be51760eb2dc8d33a6c ""
+  "Project.bib" 1556010251 39040 8b190d271e534dbff928a9915b9780a5 ""
   "Proposal.aux" 1554406346 366 c769c7f6b9eccb12d076d341b7f024cc ""
   "Proposal.bcf" 0 -1 0 ""
   (generated)
-  "Proposal.blg"
   "Proposal.bbl"
-["pdflatex"] 1554406345 "/home/jgnotts23/Documents/Project/Code/Proposal.tex" "/home/jgnotts23/Documents/Project/Code/Proposal.pdf" "Proposal" 1554406346
+  "Proposal.blg"
+["pdflatex"] 1554406345 "/home/jgnotts23/Documents/Project/Proposal/Proposal.tex" "/home/jgnotts23/Documents/Project/Proposal/Proposal.pdf" "Proposal" 1556271570
   "/etc/texmf/web2c/texmf.cnf" 1538565812 1101 af7716885e081ab43982cab7b4672c1a ""
   "/home/jgnotts23/Documents/Project/Code/Proposal.aux" 1554406346 366 c769c7f6b9eccb12d076d341b7f024cc ""
   "/home/jgnotts23/Documents/Project/Code/Proposal.tex" 1554406344 4489 b0959137ecbe88c1b374a8c13331fdf4 ""
+  "/home/jgnotts23/Documents/Project/Proposal/Proposal.tex" 1554475392 4489 b0959137ecbe88c1b374a8c13331fdf4 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -142,11 +143,13 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1538565824 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1539322625 3860581 2d6575938533bed0cff1e4e0c11691ec ""
   "Proposal.aux" 1554406346 366 c769c7f6b9eccb12d076d341b7f024cc ""
-  "Proposal.bbl" 1554405896 921 71203016e577f4210686af4609afbf57 "bibtex Proposal"
-  "Proposal.tex" 1554406344 4489 b0959137ecbe88c1b374a8c13331fdf4 ""
+  "Proposal.bbl" 1556271570 921 71203016e577f4210686af4609afbf57 "bibtex Proposal"
+  "Proposal.tex" 1554475392 4489 b0959137ecbe88c1b374a8c13331fdf4 ""
   (generated)
-  "Proposal.pdf"
-  "/home/jgnotts23/Documents/Project/Code/Proposal.log"
-  "Proposal.aux"
   "Proposal.log"
+  "Proposal.aux"
+  "/home/jgnotts23/Documents/Project/Code/Proposal.log"
   "/home/jgnotts23/Documents/Project/Code/Proposal.pdf"
+  "Proposal.pdf"
+  "/home/jgnotts23/Documents/Project/Proposal/Proposal.pdf"
+  "/home/jgnotts23/Documents/Project/Proposal/Proposal.log"
