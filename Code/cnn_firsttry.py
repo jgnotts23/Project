@@ -14,6 +14,7 @@ from scipy import ndimage
 from scipy import misc
 from scipy import stats
 import matplotlib.pyplot as plt
+import random
 
 
 # Make list of spectrogram image files
@@ -38,5 +39,8 @@ for image in spectrograms:
     spectro_data.append(f)
     i = i + 1
 
-
+# Split into training and test data 80:20
+random.seed(80) # to ensure split is always the same
+train_X_indices = random.sample(range(194), 154)
+train_X = np.split(spectro_data, train_X_indices)
 
