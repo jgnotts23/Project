@@ -194,4 +194,67 @@ def test_accuracy(Predictions, Actual):
 
     return score
 
-test_accuracy(Predictions, Actual)
+score = test_accuracy(Predictions, Actual)
+score
+
+
+
+
+
+
+
+
+testdf = pd.read_csv('/media/jgnotts23/Samsung_external/Results/test.csv',dtype=str) #test
+testdf["ID"]=testdf["ID"].apply(append_ext)
+
+## Test time ##
+test_datagen=ImageDataGenerator(rescale=1./255.)
+test_generator=test_datagen.flow_from_dataframe(
+    dataframe=testdf, 
+    directory="/media/jgnotts23/Samsung_external/Results/", #path to directory that contains the images
+    x_col="ID", #column with image filenames
+    y_col=None,
+    batch_size=5,
+    seed=42,
+    shuffle=False,
+    class_mode=None,
+    target_size=(64,64))
+STEP_SIZE_TEST=test_generator.n//test_generator.batch_size
+
+
+test_generator.reset()
+pred=model.predict_generator(test_generator,
+steps=STEP_SIZE_TEST,
+verbose=1)
+predicted_class_indices=np.argmax(pred,axis=1)
+
+#Fetch labels from train gen for testing
+labels = (train_generator.class_indices)
+labels = dict((v,k) for k,v in labels.items())
+predictions = [labels[k] for k in predicted_class_indices]
+print(predictions[0:6])
+
+zeros = np.zeros(len(predictions))
+
+filenames=test_generator.filenames
+results=pd.DataFrame({"Filename":filenames,
+                      "Predictions":predictions,
+                      "Actual":zeros})
+
+
+i = 0
+for i in range(0, len(predictions)):
+    filename = results['Filename'][i]
+    actual = testdf.loc[testdf['ID'] == filename, 'Class'].copy()
+    results['Actual'][i] = actual
+    i = i + 1
+
+results.to_csv("/media/jgnotts23/Samsung_external/results.csv",index=False)
+
+positive = results.loc[results['Predictions'] == '1']
+positive = np.asarray(positive['Filename'])
+first = testdf.loc[testdf['ID'].isin(positive)]
+
+
+Predictions = np.array(results['Predictions'].astype(int))
+Actual = np.array(results['Actual'].astype(int))
