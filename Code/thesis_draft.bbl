@@ -1,0 +1,3090 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{Allan2015}{article}{}
+    \name{author}{33}{}{%
+      {{hash=AE}{%
+         family={Allan},
+         familyi={A\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Manning},
+         familyi={M\bibinitperiod},
+         given={Pete},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=AF}{%
+         family={Alt},
+         familyi={A\bibinitperiod},
+         given={Fabian},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Binkenstein},
+         familyi={B\bibinitperiod},
+         given={Julia},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Blaser},
+         familyi={B\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BN}{%
+         family={Bl{\"{u}}thgen},
+         familyi={B\bibinitperiod},
+         given={Nico},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={B{\"{o}}hm},
+         familyi={B\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=GF}{%
+         family={Grassein},
+         familyi={G\bibinitperiod},
+         given={Fabrice},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=HN}{%
+         family={H{\"{o}}lzel},
+         familyi={H\bibinitperiod},
+         given={Norbert},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=KVH}{%
+         family={Klaus},
+         familyi={K\bibinitperiod},
+         given={Valentin\bibnamedelima H.},
+         giveni={V\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Kleinebecker},
+         familyi={K\bibinitperiod},
+         given={Till},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=MEK}{%
+         family={Morris},
+         familyi={M\bibinitperiod},
+         given={E.\bibnamedelima Kathryn},
+         giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=OY}{%
+         family={Oelmann},
+         familyi={O\bibinitperiod},
+         given={Yvonne},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Prati},
+         familyi={P\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=RSC}{%
+         family={Renner},
+         familyi={R\bibinitperiod},
+         given={Swen\bibnamedelima C.},
+         giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=RMC}{%
+         family={Rillig},
+         familyi={R\bibinitperiod},
+         given={Matthias\bibnamedelima C.},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Schaefer},
+         familyi={S\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Schloter},
+         familyi={S\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SB}{%
+         family={Schmitt},
+         familyi={S\bibinitperiod},
+         given={Barbara},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Sch{\"{o}}ning},
+         familyi={S\bibinitperiod},
+         given={Ingo},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Schrumpf},
+         familyi={S\bibinitperiod},
+         given={Marion},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Solly},
+         familyi={S\bibinitperiod},
+         given={Emily},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Sorkau},
+         familyi={S\bibinitperiod},
+         given={Elisabeth},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Steckel},
+         familyi={S\bibinitperiod},
+         given={Juliane},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SDI}{%
+         family={Steffen-Dewenter},
+         familyi={S\bibinitperiod-D\bibinitperiod},
+         given={Ingolf},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=SB}{%
+         family={Stempfhuber},
+         familyi={S\bibinitperiod},
+         given={Barbara},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={Tschapka},
+         familyi={T\bibinitperiod},
+         given={Marco},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WCN}{%
+         family={Weiner},
+         familyi={W\bibinitperiod},
+         given={Christiane\bibnamedelima N.},
+         giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=WWW}{%
+         family={Weisser},
+         familyi={W\bibinitperiod},
+         given={Wolfgang\bibnamedelima W.},
+         giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Werner},
+         familyi={W\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WC}{%
+         family={Westphal},
+         familyi={W\bibinitperiod},
+         given={Catrin},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WW}{%
+         family={Wilcke},
+         familyi={W\bibinitperiod},
+         given={Wolfgang},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Fischer},
+         familyi={F\bibinitperiod},
+         given={Markus},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \keyw{Biodiversity-ecosystem functioning,Ecosystem services,Global
+  change,Land use,Multifunctionality}
+    \strng{namehash}{AE+1}
+  \strng{fullhash}{AEMPAFBJBSBNBSGFHNKVHKTMEKOYPDRSCRMCSMSMSBSISMSESESJSDISBTMWCNWWWWMWCWWFM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    {\textcopyright} 2015 John Wiley {\&} Sons Ltd/CNRS. Global change,
+  especially land-use intensification, affects human well-being by impacting
+  the delivery of multiple ecosystem services (multifunctionality). However,
+  whether biodiversity loss is a major component of global change effects on
+  multifunctionality in real-world ecosystems, as in experimental ones, remains
+  unclear. Therefore, we assessed biodiversity, functional composition and 14
+  ecosystem services on 150 agricultural grasslands differing in land-use
+  intensity. We also introduce five multifunctionality measures in which
+  ecosystem services were weighted according to realistic land-use objectives.
+  We found that indirect land-use effects, i.e. those mediated by biodiversity
+  loss and by changes to functional composition, were as strong as direct
+  effects on average. Their strength varied with land-use objectives and
+  regional context. Biodiversity loss explained indirect effects in a region of
+  intermediate productivity and was most damaging when land-use objectives
+  favoured supporting and cultural services. In contrast, functional
+  composition shifts, towards fast-growing plant species, strongly increased
+  provisioning services in more inherently unproductive grasslands.%
+    }
+    \verb{doi}
+    \verb 10.1111/ele.12469
+    \endverb
+    \field{issn}{14610248}
+    \field{number}{8}
+    \field{pages}{834\bibrangedash 843}
+    \field{title}{{Land use intensification alters ecosystem multifunctionality
+  via loss of biodiversity and changes to functional composition}}
+    \field{volume}{18}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Allan et al. - 2015 - Land use intensification alters ecosystem mu
+    \verb ltifunctionality via loss of biodiversity and changes to functional c
+    \verb o.pdf:pdf
+    \endverb
+    \field{journaltitle}{Ecology Letters}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Aquino2013}{article}{}
+    \name{author}{4}{}{%
+      {{hash=AR}{%
+         family={Aquino},
+         familyi={A\bibinitperiod},
+         given={Rolando},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CFM}{%
+         family={Cornejo},
+         familyi={C\bibinitperiod},
+         given={Fanny\bibnamedelima M.},
+         giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PE}{%
+         family={Pezo},
+         familyi={P\bibinitperiod},
+         given={Etersit},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=HEW}{%
+         family={Heymann},
+         familyi={H\bibinitperiod},
+         given={Eckhard\bibnamedelima W.},
+         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \keyw{Ateles belzebuth,Ateles chamek,Conservation,Geographic
+  distribution,Group size,Population density,Sympatry}
+    \strng{namehash}{AR+1}
+    \strng{fullhash}{ARCFMPEHEW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    The white-fronted spider monkey, Ateles belzebuth, is listed as
+  'Endangered' according to the IUCN classification. In Peru it is found in the
+  departments of Loreto, San Mart{\'{i}}n, Amazonas and Cajamarca, but detailed
+  data on its geographic distribution, population densities and conservation
+  status are scarce. In order to obtain such information, we conducted transect
+  censuses on the R{\'{i}}o Aushiri and R{\'{i}}o San Antonio (right bank of
+  R{\'{i}}o Napo), and between the R{\'{i}}o Curaray and the R{\'{i}}o Arabela
+  and R{\'{i}}o Nashi{\~{n}}o, respectively, and made additional explorations
+  on the northern and southern banks of the R{\'{i}}o Mara{\~{n}}{\'{o}}n. We
+  obtained 48 sightings along 761 km of census transect. Group size and
+  population densities were lower in an area with high hunting pressure
+  compared to areas with medium or low hunting pressure. Besides hunting,
+  increasing deforestation is a major threat to the survival of A. belzebuth in
+  Peruvian Amazonia.%
+    }
+    \verb{doi}
+    \verb 10.1159/000345549
+    \endverb
+    \field{issn}{00155713}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 10}
+    \field{title}{{Distribution and abundance of white-fronted spider monkeys,
+  Ateles belzebuth (atelidae), and threats to their survival in Peruvian
+  Amazonia}}
+    \field{volume}{84}
+    \verb{file}
+    \verb :home/jacob/Documents/Project/Data/Papers/345549.pdf:pdf
+    \endverb
+    \field{journaltitle}{Folia Primatologica}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Astaras2017}{article}{}
+    \name{author}{5}{}{%
+      {{hash=AC}{%
+         family={Astaras},
+         familyi={A\bibinitperiod},
+         given={Christos},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LJM}{%
+         family={Linder},
+         familyi={L\bibinitperiod},
+         given={Joshua\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=WP}{%
+         family={Wrege},
+         familyi={W\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=ORD}{%
+         family={Orume},
+         familyi={O\bibinitperiod},
+         given={Robinson\bibnamedelima Diotoh},
+         giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=MDW}{%
+         family={Macdonald},
+         familyi={M\bibinitperiod},
+         given={David\bibnamedelima W.},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AC+1}
+    \strng{fullhash}{ACLJMWPORDMDW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{year}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \verb{doi}
+    \verb 10.1002/fee.1495
+    \endverb
+    \field{issn}{15409309}
+    \field{number}{5}
+    \field{pages}{233\bibrangedash 234}
+    \field{title}{{Passive acoustic monitoring as a law enforcement tool for
+  Afrotropical rainforests}}
+    \field{volume}{15}
+    \verb{file}
+    \verb :home/jacob/Downloads/Passiveacousticmonitoringasalawenforcementtoolf
+    \verb orAfrotropicalrainforests-Astarasetal.2017.pdf:pdf
+    \endverb
+    \field{journaltitle}{Frontiers in Ecology and the Environment}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Barlow2016}{article}{}
+    \name{author}{28}{}{%
+      {{hash=BJ}{%
+         family={Barlow},
+         familyi={B\bibinitperiod},
+         given={Jos},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LGD}{%
+         family={Lennox},
+         familyi={L\bibinitperiod},
+         given={Gareth\bibnamedelima D.},
+         giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=FJ}{%
+         family={Ferreira},
+         familyi={F\bibinitperiod},
+         given={Joice},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BE}{%
+         family={Berenguer},
+         familyi={B\bibinitperiod},
+         given={Erika},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=LAC}{%
+         family={Lees},
+         familyi={L\bibinitperiod},
+         given={Alexander\bibnamedelima C.},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=NRM}{%
+         family={Nally},
+         familyi={N\bibinitperiod},
+         given={Ralph\bibnamedelima Mac},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=TJR}{%
+         family={Thomson},
+         familyi={T\bibinitperiod},
+         given={James\bibnamedelima R.},
+         giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=FSFDB}{%
+         family={Ferraz},
+         familyi={F\bibinitperiod},
+         given={Silvio Frosini De\bibnamedelima Barros},
+         giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod
+  D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Louzada},
+         familyi={L\bibinitperiod},
+         given={Julio},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=OVHF}{%
+         family={Oliveira},
+         familyi={O\bibinitperiod},
+         given={Victor Hugo\bibnamedelima Fonseca},
+         giveni={V\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  F\bibinitperiod},
+      }}%
+      {{hash=PL}{%
+         family={Parry},
+         familyi={P\bibinitperiod},
+         given={Luke},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={{Ribeiro De Castro Solar}},
+         familyi={R\bibinitperiod},
+         given={Ricardo},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=VIC}{%
+         family={Vieira},
+         familyi={V\bibinitperiod},
+         given={Ima\bibnamedelima C.G.},
+         giveni={I\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=ALE}{%
+         family={Araga{\~{o}}},
+         familyi={A\bibinitperiod},
+         given={Luiz\bibnamedelima E.O.C.},
+         giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=BRA}{%
+         family={Begotti},
+         familyi={B\bibinitperiod},
+         given={Rodrigo\bibnamedelima Anzolin},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BRF}{%
+         family={Braga},
+         familyi={B\bibinitperiod},
+         given={Rodrigo\bibnamedelima F.},
+         giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=CTM}{%
+         family={Cardoso},
+         familyi={C\bibinitperiod},
+         given={Thiago\bibnamedelima Moreira},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=JRCDO}{%
+         family={Jr},
+         familyi={J\bibinitperiod},
+         given={Raimundo Cosme De\bibnamedelima Oliveira},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod
+  D\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+      {{hash=SCM}{%
+         family={Souza},
+         familyi={S\bibinitperiod},
+         given={Carlos\bibnamedelima M.},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MNG}{%
+         family={Moura},
+         familyi={M\bibinitperiod},
+         given={N{\'{a}}rgila\bibnamedelima G.},
+         giveni={N\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=NSS}{%
+         family={Nunes},
+         familyi={N\bibinitperiod},
+         given={S{\^{a}}mia\bibnamedelima Serra},
+         giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=SJV}{%
+         family={Siqueira},
+         familyi={S\bibinitperiod},
+         given={Joa{\~{o}}\bibnamedelima Victor},
+         giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Pardini},
+         familyi={P\bibinitperiod},
+         given={Renata},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SJM}{%
+         family={Silveira},
+         familyi={S\bibinitperiod},
+         given={Juliana\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=VDMFZ}{%
+         family={Vaz-De-Mello},
+         familyi={V\bibinitperiod-D\bibinitperiod-M\bibinitperiod},
+         given={Fernando\bibnamedelima Z.},
+         giveni={F\bibinitperiod\bibinitdelim Z\bibinitperiod},
+      }}%
+      {{hash=VRCS}{%
+         family={Veiga},
+         familyi={V\bibinitperiod},
+         given={Ruan Carlo\bibnamedelima Stulpen},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+      {{hash=VA}{%
+         family={Venturieri},
+         familyi={V\bibinitperiod},
+         given={Adriano},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GTA}{%
+         family={Gardner},
+         familyi={G\bibinitperiod},
+         given={Toby\bibnamedelima A.},
+         giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{BJ+1}
+  \strng{fullhash}{BJLGDFJBELACNRMTJRFSFDBLJOVHFPLRRVICALEBRABRFCTMJRCDOSCMMNGNSSSJVPRSJMVDMFZVRCSVAGTA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    {\textcopyright} 2016 Macmillan Publishers Limited. All rights reserved.
+  Concerted political attention has focused on reducing deforestation, and this
+  remains the cornerstone of most biodiversity conservation strategies.
+  However, maintaining forest cover may not reduce anthropogenic forest
+  disturbances, which are rarely considered in conservation programmes. These
+  disturbances occur both within forests, including selective logging and
+  wildfires, and at the landscape level, through edge, area and isolation
+  effects. Until now, the combined effect of anthropogenic disturbance on the
+  conservation value of remnant primary forests has remained unknown, making it
+  impossible to assess the relative importance of forest disturbance and forest
+  loss. Here we address these knowledge gaps using a large data set of plants,
+  birds and dung beetles (1,538, 460 and 156 species, respectively) sampled in
+  36 catchments in the Brazilian state of Par{\'{a}}. Catchments retaining more
+  than 69-80{\%} forest cover lost more conservation value from disturbance
+  than from forest loss. For example, a 20{\%} loss of primary forest, the
+  maximum level of deforestation allowed on Amazonian properties under Brazil's
+  Forest Code, resulted in a 39-54{\%} loss of conservation value: 96-171{\%}
+  more than expected without considering disturbance effects. We extrapolated
+  the disturbance-mediated loss of conservation value throughout Par{\'{a}},
+  which covers 25{\%} of the Brazilian Amazon. Although disturbed forests
+  retained considerable conservation value compared with deforested areas, the
+  toll of disturbance outside Par{\'{a}}'s strictly protected areas is
+  equivalent to the loss of 92,000-139,000 km 2 of primary forest. Even this
+  lowest estimate is greater than the area deforested across the entire
+  Brazilian Amazon between 2006 and 2015 (ref. 10). Species distribution models
+  showed that both landscape and within-forest disturbances contributed to
+  biodiversity loss, with the greatest negative effects on species of high
+  conservation and functional value. These results demonstrate an urgent need
+  for policy interventions that go beyond the maintenance of forest cover to
+  safeguard the hyper-diversity of tropical forest ecosystems.%
+    }
+    \verb{doi}
+    \verb 10.1038/nature18326
+    \endverb
+    \field{issn}{14764687}
+    \field{number}{7610}
+    \field{pages}{144\bibrangedash 147}
+    \field{title}{{Anthropogenic disturbance in tropical forests can double
+  biodiversity loss from deforestation}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/nature18326
+    \endverb
+    \field{volume}{535}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Barlow et al. - 2016 - Anthropogenic disturbance in tropical fores
+    \verb ts can double biodiversity loss from deforestation.pdf:pdf
+    \endverb
+    \field{journaltitle}{Nature}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Blumstein2011}{article}{}
+    \name{author}{14}{}{%
+      {{hash=BDT}{%
+         family={Blumstein},
+         familyi={B\bibinitperiod},
+         given={Daniel\bibnamedelima T},
+         giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=MDJ}{%
+         family={Mennill},
+         familyi={M\bibinitperiod},
+         given={Daniel\bibnamedelima J},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=CP}{%
+         family={Clemins},
+         familyi={C\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=GL}{%
+         family={Girod},
+         familyi={G\bibinitperiod},
+         given={Lewis},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=YK}{%
+         family={Yao},
+         familyi={Y\bibinitperiod},
+         given={Kung},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=PG}{%
+         family={Patricelli},
+         familyi={P\bibinitperiod},
+         given={Gail},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=DJL}{%
+         family={Deppe},
+         familyi={D\bibinitperiod},
+         given={Jill\bibnamedelima L},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=KAH}{%
+         family={Krakauer},
+         familyi={K\bibinitperiod},
+         given={Alan\bibnamedelima H},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CKA}{%
+         family={Cortopassi},
+         familyi={C\bibinitperiod},
+         given={Kathryn\bibnamedelima A},
+         giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=HSF}{%
+         family={Hanser},
+         familyi={H\bibinitperiod},
+         given={Sean\bibnamedelima F},
+         giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Mccowan},
+         familyi={M\bibinitperiod},
+         given={Brenda},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=AAM}{%
+         family={Ali},
+         familyi={A\bibinitperiod},
+         given={Andreas\bibnamedelima M},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=KANG}{%
+         family={Kirschel},
+         familyi={K\bibinitperiod},
+         given={Alexander N.\bibnamedelima G.},
+         giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BDT+1}
+    \strng{fullhash}{BDTMDJCPGLYKPGDJLKAHCCCKAHSFMBAAMKANG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb 10.1111/j.1365-2664.2011.01993.x
+    \endverb
+    \field{pages}{758\bibrangedash 767}
+    \field{title}{{Acoustic monitoring in terrestrial environments using
+  microphone arrays : applications , technological considerations and
+  prospectus}}
+    \field{volume}{48}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Blumstein et al. - 2011 - Acoustic monitoring in terrestrial envir
+    \verb onments using microphone arrays applications , technological consider
+    \verb .pdf:pdf
+    \endverb
+    \field{journaltitle}{Journal of Applied Ecology}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Bradbury2011}{book}{}
+    \name{author}{2}{}{%
+      {{hash=BJ}{%
+         family={Bradbury},
+         familyi={B\bibinitperiod},
+         given={Jack},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=VS}{%
+         family={Vehrencamp},
+         familyi={V\bibinitperiod},
+         given={Sandra},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {OUP, USA}%
+    }
+    \strng{namehash}{BJVS1}
+    \strng{fullhash}{BJVS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{edition}{2}
+    \field{title}{{Principles of Animal Communication}}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Browning2017}{report}{}
+    \name{author}{4}{}{%
+      {{hash=BE}{%
+         family={Browning},
+         familyi={B\bibinitperiod},
+         given={Ella},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={Gibb},
+         familyi={G\bibinitperiod},
+         given={Rory},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=GKP}{%
+         family={Glover-Kapfer},
+         familyi={G\bibinitperiod-K\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=JKE}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={Kate\bibnamedelima E.},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BE+1}
+    \strng{fullhash}{BEGRGKPJKE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Wrege, as well as 8 participants who chose to remain anonymous. Funding for
+  this report was provided by WWF-UK. WWF is one of the world's largest and
+  most experienced independent conservation organizations, with over 5 million
+  supporters and a global network active in more than 100 countries. WWF's
+  mission is to stop the degredation of the planets natural environment and to
+  build a future in which humans live in harmony with nature by conserving the
+  worlds biological diversity, ensuring that the use of renewable natural
+  resources is sustainable, and promoting the reduction of pollution and
+  wasteful consumption. Cover Image: Transient Orca (Orcinus orca) calls
+  recorded in Glacier Bay, Alaska {\textcopyright} V. Deecke%
+    }
+    \field{booktitle}{WWF Conservation Technology Series 1(2)}
+    \field{issn}{0964-6906}
+    \field{pages}{1\bibrangedash 75}
+    \field{title}{{Passive acoustic monitoring in ecology and conservation}}
+    \field{volume}{2}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Browning et al. - 2017 - Passive acoustic monitoring in ecology an
+    \verb d conservation.pdf:pdf
+    \endverb
+    \field{type}{techreport}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Ceballos2015}{article}{}
+    \name{author}{6}{}{%
+      {{hash=CG}{%
+         family={Ceballos},
+         familyi={C\bibinitperiod},
+         given={Gerardo},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=EPR}{%
+         family={Ehrlich},
+         familyi={E\bibinitperiod},
+         given={Paul\bibnamedelima R},
+         giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=BAD}{%
+         family={Barnosky},
+         familyi={B\bibinitperiod},
+         given={Anthony\bibnamedelima D},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Garc{\'{i}}a},
+         familyi={G\bibinitperiod},
+         given={Andr{\'{e}}s},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PRM}{%
+         family={Pringle},
+         familyi={P\bibinitperiod},
+         given={Robert\bibnamedelima M},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PTM}{%
+         family={Palmer},
+         familyi={P\bibinitperiod},
+         given={Todd\bibnamedelima M},
+         giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CG+1}
+    \strng{fullhash}{CGEPRBADGAPRMPTM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{issn}{{\textless}null{\textgreater}}
+    \field{number}{5}
+    \field{pages}{1\bibrangedash 5}
+    \field{title}{{Accelerated modern human-induced species losses: Entering
+  the sixth mass extinction}}
+    \field{volume}{1}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Ceballos et al. - 2015 - Accelerated modern human-induced species
+    \verb losses Entering the sixth mass extinction.pdf:pdf
+    \endverb
+    \field{journaltitle}{Science Advances}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Chapman1989}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CCA}{%
+         family={Chapman},
+         familyi={C\bibinitperiod},
+         given={C.\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CLJ}{%
+         family={Chapman},
+         familyi={C\bibinitperiod},
+         given={L.\bibnamedelima J.},
+         giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MRL}{%
+         family={McLaughlin},
+         familyi={M\bibinitperiod},
+         given={R.\bibnamedelima L.},
+         giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \keyw{Ateles,Multiple central place foragers,Sleeping sites}
+    \strng{namehash}{CCACLJMRL1}
+    \strng{fullhash}{CCACLJMRL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1989}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb 10.1007/BF00378668
+    \endverb
+    \field{issn}{1432-1939}
+    \field{number}{4}
+    \field{pages}{506\bibrangedash 511}
+    \field{title}{{Multiple central place foraging by spider monkeys: travel
+  consequences of using many sleeping sites}}
+    \field{volume}{79}
+    \verb{file}
+    \verb :home/jacob/Documents/Project/Data/Papers/Chapman1989{\_}Article{\_}M
+    \verb ultipleCentralPlaceForagingBy.pdf:pdf
+    \endverb
+    \field{journaltitle}{Oecologia}
+    \field{year}{1989}
+  \endentry
+
+  \entry{Chiarucci2011}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CA}{%
+         family={Chiarucci},
+         familyi={C\bibinitperiod},
+         given={Alessandro},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BG}{%
+         family={Bacaro},
+         familyi={B\bibinitperiod},
+         given={Giovanni},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SSM}{%
+         family={Scheiner},
+         familyi={S\bibinitperiod},
+         given={Samuel\bibnamedelima M.},
+         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \keyw{Biodiversity assessment,Biogeography,Diversity
+  measurement,Ecology,Spatial scale}
+    \strng{namehash}{CABGSSM1}
+    \strng{fullhash}{CABGSSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Although the maintenance of diversity of living systems is critical for
+  ecosystem functioning, the accelerating pace of global change is threatening
+  its preservation. Standardized methods for biodiversity assessment and
+  monitoring are needed. Species diversity is one of the most widely adopted
+  metrics for assessing patterns and processes of biodiversity, at both
+  ecological and biogeographic scales. However, those perspectives differ
+  because of the types of data that can be feasibly collected, resulting in
+  differences in the questions that can be addressed. Despite a theoretical
+  consensus on diversity metrics, standardized methods for its measurement are
+  lacking, especially at the scales needed to monitor biodiversity for
+  conservation and management purposes. We review the conceptual framework for
+  species diversity, examine common metrics, and explore their use for
+  biodiversity conservation and management. Key differences in diversity
+  measures at ecological and biogeographic scales are the completeness of
+  species lists and the ability to include information on species abundances.
+  We analyse the major pitfalls and problems with quantitative measurement of
+  species diversity, look at the use of weighting measures by phylogenetic
+  distance, discuss potential solutions and propose a research agenda to solve
+  the major existing problems.%
+    }
+    \verb{doi}
+    \verb 10.1098/rstb.2011.0065
+    \endverb
+    \field{issn}{09628436}
+    \field{number}{1576}
+    \field{pages}{2426\bibrangedash 2437}
+    \field{title}{{Old and new challenges in using species diversity for
+  assessing biodiversity}}
+    \field{volume}{366}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Chiarucci, Bacaro, Scheiner - 2011 - Old and new challenges in usi
+    \verb ng species diversity for assessing biodiversity.pdf:pdf
+    \endverb
+    \field{journaltitle}{Philosophical Transactions of the Royal Society B:
+  Biological Sciences}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Chollet2016}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CF}{%
+         family={Chollet},
+         familyi={C\bibinitperiod},
+         given={Francois},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CF1}
+    \strng{fullhash}{CF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{booktitle}{The Keras Blog}
+    \field{title}{{Building powerful image classification models using very
+  little data}}
+    \verb{url}
+    \verb https://blog.keras.io/building-powerful-image-classification-models-u
+    \verb sing-very-little-data.html
+    \endverb
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'urldate'}
+  \endentry
+
+  \entry{Cuaron2008}{misc}{}
+    \name{author}{6}{}{%
+      {{hash=CAD}{%
+         family={Cuar{\'{o}}n},
+         familyi={C\bibinitperiod},
+         given={A.\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Morales},
+         familyi={M\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Shedden},
+         familyi={S\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RLE}{%
+         family={Rodriquez-Luna},
+         familyi={R\bibinitperiod-L\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=dGPC}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Grammont},
+         familyi={G\bibinitperiod},
+         given={P.\bibnamedelima C.},
+         giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=COL}{%
+         family={Cortes-Ortiz},
+         familyi={C\bibinitperiod-O\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CAD+1}
+    \strng{fullhash}{CADMASARLEGPCdCOL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{booktitle}{The IUCN Red List of Theatened Species}
+    \field{pages}{1\bibrangedash 15}
+    \field{title}{{Ateles geoffroyi , Geoffroy's Spider Monkey}}
+    \verb{url}
+    \verb http://dx.doi.org/10.2305/IUCN.UK.2008.RLTS.T2279A9387270.en{\%}0ACop
+    \verb yright:
+    \endverb
+    \verb{file}
+    \verb :home/jacob/Documents/Project/Data/Papers/10.2305{\_}IUCN.UK.2008.RLT
+    \verb S.T2279A9387270.en.pdf:pdf
+    \endverb
+    \field{year}{2008}
+    \field{urlday}{22}
+    \field{urlmonth}{07}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{DeVos2015}{article}{}
+    \name{author}{5}{}{%
+      {{hash=DJM}{%
+         family={{De Vos}},
+         familyi={D\bibinitperiod},
+         given={Jurriaan\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=JLN}{%
+         family={Joppa},
+         familyi={J\bibinitperiod},
+         given={Lucas\bibnamedelima N.},
+         giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=GJL}{%
+         family={Gittleman},
+         familyi={G\bibinitperiod},
+         given={John\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=SPR}{%
+         family={Stephens},
+         familyi={S\bibinitperiod},
+         given={Patrick\bibnamedelima R.},
+         giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=PSL}{%
+         family={Pimm},
+         familyi={P\bibinitperiod},
+         given={Stuart\bibnamedelima L.},
+         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \keyw{Diversification rates,Extinction rate,Fossil record,Lineages through
+  time,Molecular phylogenies}
+    \strng{namehash}{DJM+1}
+    \strng{fullhash}{DJMJLNGJLSPRPSL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    A key measure of humanity's global impact is by how much it has increased
+  species extinction rates. Familiar statements are that these are 100-1000
+  times pre-human or background extinction levels. Estimating recent rates is
+  straightforward, but establishing a background rate for comparison is not.
+  Previous researchers chose an approximate benchmark of 1 extinction per
+  million species per year (E/MSY). We explored disparate lines of evidence
+  that suggest a substantially lower estimate. Fossil data yield direct
+  estimates of extinction rates, but they are temporally coarse, mostly limited
+  to marine hard-bodied taxa, and generally involve genera not species. Based
+  on these data, typical background loss is 0.01 genera per million genera per
+  year. Molecular phylogenies are available for more taxa and ecosystems, but
+  it is debated whether they can be used to estimate separately speciation and
+  extinction rates. We selected data to address known concerns and used them to
+  determine median extinction estimates from statistical distributions of
+  probable values for terrestrial plants and animals. We then created
+  simulations to explore effects of violating model assumptions. Finally, we
+  compiled estimates of diversificationthe difference between speciation and
+  extinction rates for different taxa. Median estimates of extinction rates
+  ranged from 0.023 to 0.135 E/MSY. Simulation results suggested over- and
+  under-estimation of extinction from individual phylogenies partially canceled
+  each other out when large sets of phylogenies were analyzed. There was no
+  evidence for recent and widespread pre-human overall declines in diversity.
+  This implies that average extinction rates are less than average
+  diversification rates. Median diversification rates were 0.05-0.2 new species
+  per million species per year. On the basis of these results, we concluded
+  that typical rates of background extinction may be closer to 0.1 E/MSY. Thus,
+  current extinction rates are 1,000 times higher than natural background rates
+  of extinction and future rates are likely to be 10,000 times higher.%
+    }
+    \verb{doi}
+    \verb 10.1111/cobi.12380
+    \endverb
+    \field{issn}{15231739}
+    \field{number}{2}
+    \field{pages}{452\bibrangedash 462}
+    \field{title}{{Estimating the normal background rate of species
+  extinction}}
+    \field{volume}{29}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/De Vos et al. - 2015 - Estimating the normal background rate of sp
+    \verb ecies extinction.pdf:pdf
+    \endverb
+    \field{journaltitle}{Conservation Biology}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Digby2013}{article}{}
+    \name{author}{4}{}{%
+      {{hash=DA}{%
+         family={Digby},
+         familyi={D\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={Towsey},
+         familyi={T\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BBD}{%
+         family={Bell},
+         familyi={B\bibinitperiod},
+         given={Ben\bibnamedelima D},
+         giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=TPD}{%
+         family={Teal},
+         familyi={T\bibinitperiod},
+         given={Paul\bibnamedelima D},
+         giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DA+1}
+    \strng{fullhash}{DATMBBDTPD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{year}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \verb{doi}
+    \verb 10.1111/2041-210X.12060
+    \endverb
+    \field{pages}{675\bibrangedash 683}
+    \field{title}{{A practical comparison of manual and autonomous methods for
+  acoustic monitoring}}
+    \field{volume}{4}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Digby et al. - 2013 - A practical comparison of manual and autonom
+    \verb ous methods for acoustic monitoring.pdf:pdf
+    \endverb
+    \field{journaltitle}{Methods}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Doherty2016}{article}{}
+    \name{author}{5}{}{%
+      {{hash=DTS}{%
+         family={Doherty},
+         familyi={D\bibinitperiod},
+         given={Tim\bibnamedelima S.},
+         giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=GAS}{%
+         family={Glen},
+         familyi={G\bibinitperiod},
+         given={Alistair\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=NDG}{%
+         family={Nimmo},
+         familyi={N\bibinitperiod},
+         given={Dale\bibnamedelima G.},
+         giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=REG}{%
+         family={Ritchie},
+         familyi={R\bibinitperiod},
+         given={Euan\bibnamedelima G.},
+         giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=DCR}{%
+         family={Dickman},
+         familyi={D\bibinitperiod},
+         given={Chris\bibnamedelima R.},
+         giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DTS+1}
+    \strng{fullhash}{DTSGASNDGREGDCR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{year}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    Invasive species threaten biodiversity globally, and invasive mammalian
+  predators are particularly damaging, having contributed to considerable
+  species decline and extinction. We provide a global metaanalysis of these
+  impacts and reveal their full extent. Invasive predators are implicated in 87
+  bird, 45 mammal, and 10 reptile species extinctions-58{\%} of these groups'
+  contemporary extinctions worldwide. These figures are likely underestimated
+  because 23 critically endangered species that we assessed are classed as
+  "possibly extinct." Invasive mammalian predators endanger a further 596
+  species at risk of extinction, with cats, rodents, dogs, and pigs threatening
+  the most species overall. Species most at risk from predators have high
+  evolutionary distinctiveness and inhabit insular environments. Invasive
+  mammalian predators are therefore important drivers of irreversible loss of
+  phylogenetic diversity worldwide. That most impacted species are insular
+  indicates that management of invasive predators on islands should be a global
+  conservation priority. Understanding and mitigating the impact of invasive
+  mammalian predators is essential for reducing the rate of global biodiversity
+  loss.%
+    }
+    \verb{doi}
+    \verb 10.1073/pnas.1602480113
+    \endverb
+    \field{issn}{0027-8424}
+    \field{number}{40}
+    \field{pages}{11261\bibrangedash 11265}
+    \field{title}{{Invasive predators and global biodiversity loss}}
+    \field{volume}{113}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Doherty et al. - 2016 - Invasive predators and global biodiversity
+    \verb  loss.pdf:pdf
+    \endverb
+    \field{journaltitle}{Proceedings of the National Academy of Sciences}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Fanin2018}{article}{}
+    \name{author}{8}{}{%
+      {{hash=FN}{%
+         family={Fanin},
+         familyi={F\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=GMJ}{%
+         family={Gundale},
+         familyi={G\bibinitperiod},
+         given={Michael\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Farrell},
+         familyi={F\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Ciobanu},
+         familyi={C\bibinitperiod},
+         given={Marcel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BJA}{%
+         family={Baldock},
+         familyi={B\bibinitperiod},
+         given={Jeff\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=NMC}{%
+         family={Nilsson},
+         familyi={N\bibinitperiod},
+         given={Marie\bibnamedelima Charlotte},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=KP}{%
+         family={Kardol},
+         familyi={K\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=WDA}{%
+         family={Wardle},
+         familyi={W\bibinitperiod},
+         given={David\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer US}%
+    }
+    \strng{namehash}{FN+1}
+    \strng{fullhash}{FNGMJFMCMBJANMCKPWDA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{year}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{abstract}{%
+    {\textcopyright} 2017 The Author(s). Understanding how loss of biodiversity
+  affects ecosystem functioning, and thus the delivery of ecosystem goods and
+  services, has become increasingly necessary in a changing world. Considerable
+  recent attention has focused on predicting how biodiversity loss
+  simultaneously impacts multiple ecosystem functions (that is, ecosystem
+  multifunctionality), but the ways in which these effects vary across
+  ecosystems remain unclear. Here, we report the results of two 19-year plant
+  diversity manipulation experiments, each established across a strong
+  environmental gradient. Although the effects of plant and associated fungal
+  diversity loss on individual functions frequently differed among ecosystems,
+  the consequences of biodiversity loss for multifunctionality were relatively
+  invariant. However, the context-dependency of biodiversity effects also
+  worked in opposing directions for different individual functions, meaning
+  that similar multifunctionality values across contrasting ecosystems could
+  potentially mask important differences in the effects of biodiversity on
+  functioning among ecosystems. Our findings highlight that an understanding of
+  the relative contribution of species or functional groups to individual
+  ecosystem functions among contrasting ecosystems and their interactions (that
+  is, complementarity versus competition) is critical for guiding management
+  efforts aimed at maintaining ecosystem multifunctionality and the delivery of
+  multiple ecosystem services.%
+    }
+    \verb{doi}
+    \verb 10.1038/s41559-017-0415-0
+    \endverb
+    \field{issn}{2397334X}
+    \field{number}{2}
+    \field{pages}{269\bibrangedash 278}
+    \field{title}{{Consistent effects of biodiversity loss on
+  multifunctionality across contrasting ecosystems}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/s41559-017-0415-0
+    \endverb
+    \field{volume}{2}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Fanin et al. - 2018 - Consistent effects of biodiversity loss on m
+    \verb ultifunctionality across contrasting ecosystems(2).pdf:pdf
+    \endverb
+    \field{journaltitle}{Nature Ecology and Evolution}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Glorot2011}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=GX}{%
+         family={Glorot},
+         familyi={G\bibinitperiod},
+         given={Xavier},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bordes},
+         familyi={B\bibinitperiod},
+         given={Antoine},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BY}{%
+         family={Bengio},
+         familyi={B\bibinitperiod},
+         given={Yoshua},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GXBABY1}
+    \strng{fullhash}{GXBABY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    While logistic sigmoid neurons are more biologically plausible than
+  hyperbolic tangent neurons, the latter work better for training multi-layer
+  neural networks. This paper shows that rectifying neurons are an even better
+  model of biological neurons and yield equal or better performance than
+  hy-perbolic tangent networks in spite of the hard non-linearity and
+  non-differentiability at zero, creating sparse representations with true
+  zeros, which seem remarkably suitable for naturally sparse data. Even though
+  they can take advantage of semi-supervised setups with extra-unlabeled data,
+  deep rectifier networks can reach their best performance without requiring
+  any unsupervised pre-training on purely supervised tasks with large labeled
+  datasets. Hence, these results can be seen as a new milestone in the attempts
+  at understanding the difficulty in training deep but purely supervised neural
+  networks, and closing the performance gap between neural networks learnt with
+  and without unsupervised pre-training.%
+    }
+    \field{booktitle}{Proceedings of the Fourteenth International Conference on
+  Artificial Intelligence and Statistics}
+    \verb{doi}
+    \verb 10.1.1.208.6449
+    \endverb
+    \verb{eprint}
+    \verb 1502.03167
+    \endverb
+    \field{isbn}{1532-4435}
+    \field{issn}{15324435}
+    \field{pages}{315\bibrangedash 323}
+    \field{title}{{Deep Sparse Rectifier Neural Networks Xavier}}
+    \verb{url}
+    \verb http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf
+    \endverb
+    \field{volume}{15}
+    \verb{file}
+    \verb :home/jacob/Downloads/glorot11a.pdf:pdf
+    \endverb
+    \field{eprinttype}{arXiv}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Goeau2016}{article}{}
+    \name{author}{5}{}{%
+      {{hash=GH}{%
+         family={Go{\"{e}}au},
+         familyi={G\bibinitperiod},
+         given={Herv{\'{e}}},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=GH}{%
+         family={Glotin},
+         familyi={G\bibinitperiod},
+         given={Herv{\'{e}}},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=VWP}{%
+         family={Vellinga},
+         familyi={V\bibinitperiod},
+         given={Willem-Pier},
+         giveni={W\bibinitperiod-P\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Planqu{\'{e}}},
+         familyi={P\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=JA}{%
+         family={Joly},
+         familyi={J\bibinitperiod},
+         given={Alexis},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+  \keyw{LifeCLEF,audio,benchmark,bioacoustics,bird,call,collection,eco-logical
+  monitoring,evaluation,fine-grained
+  classification,iden-tification,retrieval,song,species}
+    \strng{namehash}{GH+1}
+    \strng{fullhash}{GHGHVWPPRJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    The LifeCLEF bird identification challenge provides a large-scale testbed
+  for the system-oriented evaluation of bird species identifi-cation based on
+  audio recordings. One of its main strength is that the data used for the
+  evaluation is collected through Xeno-Canto, the largest network of bird sound
+  recordists in the world. This makes the task closer to the conditions of a
+  real-world application than previous, similar initia-tives. The main novelty
+  of the 2016-th edition of the challenge was the inclusion of soundscape
+  recordings in addition to the usual xeno-canto recordings that focus on a
+  single foreground species. This paper reports the methodology of the
+  conducted evaluation, the overview of the sys-tems experimented by the 6
+  participating research groups and a synthetic analysis of the obtained
+  results.%
+    }
+    \field{pages}{440\bibrangedash 449}
+    \field{title}{{LifeCLEF Bird Identification Task 2016: The arrival of Deep
+  learning.}}
+    \verb{url}
+    \verb https://hal.archives-ouvertes.fr/hal-01373779/document
+    \endverb
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Go{\"{e}}au et al. - 2016 - LifeCLEF Bird Identification Task 2016
+    \verb  The arrival of Deep learning.pdf:pdf
+    \endverb
+    \field{journaltitle}{Working Notes of CLEF 2016 - Conference and Labs of
+  the Evaluation forum}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Guyon1997}{report}{}
+    \name{author}{1}{}{%
+      {{hash=GI}{%
+         family={Guyon},
+         familyi={G\bibinitperiod},
+         given={Isabelle},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \keyw{cross-validation,experiment design,learning theory,machine
+  learning,nition,pattern recog-,statistics,test set,training set,validation
+  set}
+    \strng{namehash}{GI1}
+    \strng{fullhash}{GI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1997}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    We address the problem of determining what fraction of the training set
+  should be reserved$\backslash$nas development test set or validation set. We
+  determine that the ratio of the validation set size$\backslash$nover the
+  training set size scales like the square root of two complexity parameters:
+  the complexity$\backslash$nof the second level of inference (minimizing the
+  validation error) over the complexity$\backslash$nof the first level of
+  inference (minimizing the error rate on the training
+  set).$\backslash$n$\backslash$nKeywords: Cross-validation; Learning...%
+    }
+    \field{booktitle}{AT{\&}T Bell Laboratories}
+    \field{pages}{1\bibrangedash 11}
+    \field{title}{{A scaling law for the validation-set training-set size
+  ratio}}
+    \verb{url}
+    \verb http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.33.1337{\&}r
+    \verb ep=rep1{\&}type=pdf
+    \endverb
+    \verb{file}
+    \verb :home/jacob/Downloads/6c05d46e061290fefff8b46d0ff161998677.pdf:pdf
+    \endverb
+    \field{type}{techreport}
+    \field{year}{1997}
+  \endentry
+
+  \entry{Heinicke2015}{article}{}
+    \name{author}{6}{}{%
+      {{hash=HS}{%
+         family={Heinicke},
+         familyi={H\bibinitperiod},
+         given={Stefanie},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KAK}{%
+         family={Kalan},
+         familyi={K\bibinitperiod},
+         given={Ammie\bibnamedelima K},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=WOJJ}{%
+         family={Wagner},
+         familyi={W\bibinitperiod},
+         given={Oliver J\bibnamedelima J},
+         giveni={O\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  J\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Mundry},
+         familyi={M\bibinitperiod},
+         given={Roger},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Lukashevich},
+         familyi={L\bibinitperiod},
+         given={Hannah},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=KHS}{%
+         family={Kuhl},
+         familyi={K\bibinitperiod},
+         given={Hjalmar\bibnamedelima S.},
+         giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HS+1}
+    \strng{fullhash}{HSKAKWOJJMRLHKHS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \verb{doi}
+    \verb 10.1111/2041-210X.12384
+    \endverb
+    \field{pages}{753\bibrangedash 763}
+    \field{title}{{Assessing the performance of a semi-automated acoustic
+  monitoring system for primates}}
+    \field{volume}{6}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Heinicke et al. - 2015 - Assessing the performance of a semi-autom
+    \verb ated acoustic monitoring system for primates.pdf:pdf
+    \endverb
+    \field{journaltitle}{Methods in Ecology and Evolution}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Hill2018}{article}{}
+    \name{author}{6}{}{%
+      {{hash=HAP}{%
+         family={Hill},
+         familyi={H\bibinitperiod},
+         given={Andrew\bibnamedelima P.},
+         giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=PP}{%
+         family={Prince},
+         familyi={P\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PE}{%
+         family={{Pi{\~{n}}a Covarrubias}},
+         familyi={P\bibinitperiod},
+         given={Evelyn},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=DCP}{%
+         family={Doncaster},
+         familyi={D\bibinitperiod},
+         given={C.\bibnamedelima Patrick},
+         giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=SJL}{%
+         family={Snaddon},
+         familyi={S\bibinitperiod},
+         given={Jake\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Rogers},
+         familyi={R\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{acoustic monitoring,biodiversity monitoring,ecosystem
+  management,gunshot detection,open science,open-source hardware,open-source
+  software}
+    \strng{namehash}{HAP+1}
+    \strng{fullhash}{HAPPPPEDCPSJLRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    Introduction: D-dimer assay, generally evaluated according to cutoff points
+  calibrated for VTE exclusion, is used to estimate the individual risk of
+  recurrence after a first idiopathic event of venous thromboembolism (VTE).
+  Methods: Commercial D-dimer assays, evaluated according to predetermined
+  cutoff levels for each assay, specific for age (lower in subjects
+  {\textless}70 years) and gender (lower in males), were used in the recent
+  DULCIS study. The present analysis compared the results obtained in the
+  DULCIS with those that might have been had using the following different
+  cutoff criteria: traditional cutoff for VTE exclusion, higher levels in
+  subjects aged ≥60 years, or age multiplied by 10. Results: In young
+  subjects, the DULCIS low cutoff levels resulted in half the recurrent events
+  that would have occurred using the other criteria. In elderly patients, the
+  DULCIS results were similar to those calculated for the two age-adjusted
+  criteria. The adoption of traditional VTE exclusion criteria would have led
+  to positive results in the large majority of elderly subjects, without a
+  significant reduction in the rate of recurrent event. Conclusion: The results
+  confirm the usefulness of the cutoff levels used in DULCIS.%
+    }
+    \verb{doi}
+    \verb 10.1111/2041-210X.12955
+    \endverb
+    \field{issn}{2041210X}
+    \field{number}{5}
+    \field{pages}{1\bibrangedash 13}
+    \field{title}{{AudioMoth: Evaluation of a smart open acoustic device for
+  monitoring biodiversity and the environment}}
+    \field{volume}{9}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Hill et al. - 2018 - AudioMoth Evaluation of a smart open acoustic
+    \verb  device for monitoring biodiversity and the environment.pdf:pdf
+    \endverb
+    \field{journaltitle}{Methods in Ecology and Evolution}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Kalan2016}{article}{}
+    \name{author}{6}{}{%
+      {{hash=KAK}{%
+         family={Kalan},
+         familyi={K\bibinitperiod},
+         given={Ammie\bibnamedelima K},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=PAK}{%
+         family={Piel},
+         familyi={P\bibinitperiod},
+         given={Alex\bibnamedelima K},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Mundry},
+         familyi={M\bibinitperiod},
+         given={Roger},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=WRM}{%
+         family={Wittig},
+         familyi={W\bibinitperiod},
+         given={Roman\bibnamedelima M},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Boesch},
+         familyi={B\bibinitperiod},
+         given={Christophe},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=KHS}{%
+         family={K{\"{u}}hl},
+         familyi={K\bibinitperiod},
+         given={Hjalmar\bibnamedelima S},
+         giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Frontiers in Zoology}%
+    }
+    \keyw{Animal communication,Autonomous recording unit,Bio,animal
+  communication,autonomous recording unit,bioacoustics,buttress drumming,loud
+  calls}
+    \strng{namehash}{KAK+1}
+    \strng{fullhash}{KAKPAKMRWRMBCKHS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{year}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \verb{doi}
+    \verb 10.1186/s12983-016-0167-8
+    \endverb
+    \field{isbn}{1298301601678}
+    \field{issn}{1742-9994}
+    \field{number}{34}
+    \field{pages}{1\bibrangedash 11}
+    \field{title}{{Passive acoustic monitoring reveals group ranging and
+  territory use : a case study of wild chimpanzees (Pan troglodytes)}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1186/s12983-016-0167-8
+    \endverb
+    \field{volume}{13}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Kalan et al. - 2016 - Passive acoustic monitoring reveals group ra
+    \verb nging and territory use a case study of wild chimpanzees (Pan troglod
+    \verb .pdf:pdf
+    \endverb
+    \field{journaltitle}{Frontiers in Zoology}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Kim2018}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KJ}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Jinseok},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Jenna},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{Author name disambiguation,Imbalanced training data,Negative training
+  data,Supervised machine learning}
+    \strng{namehash}{KJKJ1}
+    \strng{fullhash}{KJKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{year}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{abstract}{%
+    In supervised machine learning for author name disambiguation, negative
+  training data are often dominantly larger than positive training data. This
+  paper examines how the ratios of negative to positive training data can
+  affect the performance of machine learning algorithms to disambiguate author
+  names in bibliographic records. On multiple labeled datasets, three
+  classifiers - Logistic Regression, Na$\backslash$"ive Bayes, and Random
+  Forest - are trained through representative features such as coauthor names,
+  and title words extracted from the same training data but with various
+  positive-negative training data ratios. Results show that increasing negative
+  training data can improve disambiguation performance but with a few percent
+  of performance gains and sometimes degrade it. Logistic Regression and
+  Na$\backslash$"ive Bayes learn optimal disambiguation models even with a base
+  ratio (1:1) of positive and negative training data. Also, the performance
+  improvement by Random Forest tends to quickly saturate roughly after 1:10
+  {\~{}} 1:15. These findings imply that contrary to the common practice using
+  all training data, name disambiguation algorithms can be trained using part
+  of negative training data without degrading much disambiguation performance
+  while increasing computational efficiency. This study calls for more
+  attention from author name disambiguation scholars to methods for machine
+  learning from imbalanced data.%
+    }
+    \verb{doi}
+    \verb 10.1007/s11192-018-2865-9
+    \endverb
+    \field{issn}{15882861}
+    \field{number}{1}
+    \field{pages}{511\bibrangedash 526}
+    \field{title}{{The impact of imbalanced training data on machine learning
+  for author name disambiguation}}
+    \field{volume}{117}
+    \verb{file}
+    \verb :home/jacob/Downloads/1808.00525.pdf:pdf
+    \endverb
+    \field{journaltitle}{Scientometrics}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Lawson2019}{unpublished}{}
+    \name{author}{1}{}{%
+      {{hash=LJ}{%
+         family={Lawson},
+         familyi={L\bibinitperiod},
+         given={Jenna},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJ1}
+    \strng{fullhash}{LJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{year}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{pages}{1\bibrangedash 35}
+    \field{title}{{Sounds of the Spider Monkey : Using acoustics to investigate
+  biodiversity, and land use and threats to the Geoffroy's spider monkey
+  (Ateles geoffroyi) in Costa Rica}}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Lawson - 2019 - Sounds of the Spider Monkey Using acoustics to inv
+    \verb estigate biodiversity, and land use and threats to the Geoffroy's(2).
+    \verb pdf:pdf
+    \endverb
+    \field{year}{2019}
+  \endentry
+
+  \entry{Liao2016}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=LZ}{%
+         family={Liao},
+         familyi={L\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=CG}{%
+         family={Carneiro},
+         familyi={C\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LZCG1}
+    \strng{fullhash}{LZCG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{year}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{booktitle}{IEEE Winter Conference on Applications of Computer Vision
+  (WACV)}
+    \field{pages}{1\bibrangedash 8}
+    \field{title}{{On the Importance of Normalisation Layers in Deep Learning
+  with Piecewise Linear Activation Units}}
+    \verb{file}
+    \verb :home/jacob/Downloads/226.pdf:pdf
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{Merchant2015}{article}{}
+    \name{author}{7}{}{%
+      {{hash=MND}{%
+         family={Merchant},
+         familyi={M\bibinitperiod},
+         given={Nathan\bibnamedelima D.},
+         giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=FKM}{%
+         family={Fristrup},
+         familyi={F\bibinitperiod},
+         given={Kurt\bibnamedelima M.},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=JMP}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+         given={Mark\bibnamedelima P.},
+         giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=TPL}{%
+         family={Tyack},
+         familyi={T\bibinitperiod},
+         given={Peter\bibnamedelima L.},
+         giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=WMJ}{%
+         family={Witt},
+         familyi={W\bibinitperiod},
+         given={Matthew\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BP}{%
+         family={Blondel},
+         familyi={B\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=PSE}{%
+         family={Parks},
+         familyi={P\bibinitperiod},
+         given={Susan\bibnamedelima E.},
+         giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \keyw{Acoustic ecology,Ambient noise,Anthropogenic
+  noise,Bioacoustics,Ecoacoustics,Habitat monitoring,Passive acoustic
+  monitoring,Remote sensing,Soundscape}
+    \strng{namehash}{MND+1}
+    \strng{fullhash}{MNDFKMJMPTPLWMJBPPSE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    1. Many organisms depend on sound for communication, predator/prey
+  detection and navigation. The acoustic environment can therefore play an
+  important role in ecosystem dynamics and evolution. A growing number of
+  studies are documenting acoustic habitats and their influences on animal
+  development, behaviour, physiology and spatial ecology, which has led to
+  increasing demand for passive acoustic monitoring (PAM) expertise in the life
+  sciences. However, as yet, there has been no synthesis of data processing
+  methods for acoustic habitat monitoring, which presents an unnecessary
+  obstacle to would-be PAM analysts. 2. Here, we review the signal processing
+  techniques needed to produce calibrated measurements of terrestrial and
+  aquatic acoustic habitats. We include a supplemental tutorial and template
+  computer codes in matlab and r, which give detailed guidance on how to
+  produce calibrated spectrograms and statistical analyses of sound levels. Key
+  metrics and terminology for the characterisation of biotic, abiotic and
+  anthropogenic sound are covered, and their application to relevant monitoring
+  scenarios is illustrated through example data sets. To inform study design
+  and hardware selection, we also include an up-to-date overview of terrestrial
+  and aquatic PAM instruments. 3. Monitoring of acoustic habitats at large
+  spatiotemporal scales is becoming possible through recent advances in PAM
+  technology. This will enhance our understanding of the role of sound in the
+  spatial ecology of acoustically sensitive species and inform spatial planning
+  to mitigate the rising influence of anthropogenic noise in these ecosystems.
+  As we demonstrate in this work, progress in these areas will depend upon the
+  application of consistent and appropriate PAM methodologies.%
+    }
+    \verb{doi}
+    \verb 10.1111/2041-210X.12330
+    \endverb
+    \field{issn}{2041210X}
+    \field{number}{3}
+    \field{pages}{257\bibrangedash 265}
+    \field{title}{{Measuring acoustic habitats}}
+    \field{volume}{6}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Merchant et al. - 2015 - Measuring acoustic habitats.pdf:pdf
+    \endverb
+    \field{journaltitle}{Methods in Ecology and Evolution}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Newbold2015}{article}{}
+    \name{author}{41}{}{%
+      {{hash=NT}{%
+         family={Newbold},
+         familyi={N\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HLN}{%
+         family={Hudson},
+         familyi={H\bibinitperiod},
+         given={Lawrence\bibnamedelima N},
+         giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=HSLL}{%
+         family={Hill},
+         familyi={H\bibinitperiod},
+         given={Samantha L\bibnamedelima L},
+         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  L\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Contu},
+         familyi={C\bibinitperiod},
+         given={Sara},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LI}{%
+         family={Lysenko},
+         familyi={L\bibinitperiod},
+         given={Igor},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=SRA}{%
+         family={Senior},
+         familyi={S\bibinitperiod},
+         given={Rebecca\bibnamedelima A},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BL}{%
+         family={B{\"{o}}rger},
+         familyi={B\bibinitperiod},
+         given={Luca},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=BDJ}{%
+         family={Bennett},
+         familyi={B\bibinitperiod},
+         given={Dominic\bibnamedelima J},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Choimes},
+         familyi={C\bibinitperiod},
+         given={Argyrios},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Collen},
+         familyi={C\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Day},
+         familyi={D\bibinitperiod},
+         given={Julie},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={{De Palma}},
+         familyi={D\bibinitperiod},
+         given={Adriana},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DS}{%
+         family={D{\'{i}}az},
+         familyi={D\bibinitperiod},
+         given={Sandra},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ELS}{%
+         family={Echeverria-Londo{\~{n}}o},
+         familyi={E\bibinitperiod-L\bibinitperiod},
+         given={Susy},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=EMJ}{%
+         family={Edgar},
+         familyi={E\bibinitperiod},
+         given={Melanie\bibnamedelima J},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Feldman},
+         familyi={F\bibinitperiod},
+         given={Anat},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Garon},
+         familyi={G\bibinitperiod},
+         given={Morgan},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=HMLK}{%
+         family={Harrison},
+         familyi={H\bibinitperiod},
+         given={Michelle L\bibnamedelima K},
+         giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  K\bibinitperiod},
+      }}%
+      {{hash=AT}{%
+         family={Alhusseini},
+         familyi={A\bibinitperiod},
+         given={Tamera},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=IDJ}{%
+         family={Ingram},
+         familyi={I\bibinitperiod},
+         given={Daniel\bibnamedelima J},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=IY}{%
+         family={Itescu},
+         familyi={I\bibinitperiod},
+         given={Yuval},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Kattge},
+         familyi={K\bibinitperiod},
+         given={Jens},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Kemp},
+         familyi={K\bibinitperiod},
+         given={Victoria},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=KL}{%
+         family={Kirkpatrick},
+         familyi={K\bibinitperiod},
+         given={Lucinda},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kleyer},
+         familyi={K\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CDLP}{%
+         family={Correia},
+         familyi={C\bibinitperiod},
+         given={David Laginha\bibnamedelima Pinto},
+         giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+      }}%
+      {{hash=MCD}{%
+         family={Martin},
+         familyi={M\bibinitperiod},
+         given={Callum\bibnamedelima D},
+         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Meiri},
+         familyi={M\bibinitperiod},
+         given={Shai},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Novosolov},
+         familyi={N\bibinitperiod},
+         given={Maria},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PY}{%
+         family={Pan},
+         familyi={P\bibinitperiod},
+         given={Yuan},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=PHRP}{%
+         family={Phillips},
+         familyi={P\bibinitperiod},
+         given={Helen R\bibnamedelima P},
+         giveni={H\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  P\bibinitperiod},
+      }}%
+      {{hash=PDW}{%
+         family={Purves},
+         familyi={P\bibinitperiod},
+         given={Drew\bibnamedelima W},
+         giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Robinson},
+         familyi={R\bibinitperiod},
+         given={Alexandra},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Simpson},
+         familyi={S\bibinitperiod},
+         given={Jake},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TSL}{%
+         family={Tuck},
+         familyi={T\bibinitperiod},
+         given={Sean\bibnamedelima L},
+         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=WE}{%
+         family={Weiher},
+         familyi={W\bibinitperiod},
+         given={Evan},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=WHJ}{%
+         family={White},
+         familyi={W\bibinitperiod},
+         given={Hannah\bibnamedelima J},
+         giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=ERM}{%
+         family={Ewers},
+         familyi={E\bibinitperiod},
+         given={Robert\bibnamedelima M},
+         giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MGM}{%
+         family={Mace},
+         familyi={M\bibinitperiod},
+         given={Georgina\bibnamedelima M},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SJPW}{%
+         family={Scharlemann},
+         familyi={S\bibinitperiod},
+         given={J{\"{o}}rn P\bibnamedelima W},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim
+  W\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Purvis},
+         familyi={P\bibinitperiod},
+         given={Andy},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NT+1}
+  \strng{fullhash}{NTHLNHSLLCSLISRABLBDJCACBDJDADSELSEMJFAGMHMLKATIDJIYKJKVKLKMCDLPMCDMSNMPYPHRPPDWRASJTSLWEWHJERMMGMSJPWPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{abstract}{%
+    Human activities, especially conversion and degradation of habitats, are
+  causing global biodiversity declines. How local ecological assemblages are
+  responding is less clear--a concern given their importance for many ecosystem
+  functions and services. We analysed a terrestrial assemblage database of
+  unprecedented geographic and taxonomic coverage to quantify local
+  biodiversity responses to land use and related changes. Here we show that in
+  the worst-affected habitats, these pressures reduce within-sample species
+  richness by an average of 76.5{\%}, total abundance by 39.5{\%} and
+  rarefaction-based richness by 40.3{\%}. We estimate that, globally, these
+  pressures have already slightly reduced average within-sample richness (by
+  13.6{\%}), total abundance (10.7{\%}) and rarefaction-based richness
+  (8.1{\%}), with changes showing marked spatial variation. Rapid further
+  losses are predicted under a business-as-usual land-use scenario;
+  within-sample richness is projected to fall by a further 3.4{\%} globally by
+  2100, with losses concentrated in biodiverse but economically poor countries.
+  Strong mitigation can deliver much more positive biodiversity changes (up to
+  a 1.9{\%} average increase) that are less strongly related to countries'
+  socioeconomic status.%
+    }
+    \verb{doi}
+    \verb 10.1038/nature14324
+    \endverb
+    \field{issn}{1476-4687}
+    \field{number}{7545}
+    \field{pages}{45\bibrangedash 50}
+    \field{title}{{Global effects of land use on local terrestrial
+  biodiversity.}}
+    \verb{url}
+    \verb http://www.ncbi.nlm.nih.gov/pubmed/25832402
+    \endverb
+    \field{volume}{520}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Newbold et al. - 2015 - Global effects of land use on local terres
+    \verb trial biodiversity.pdf:pdf
+    \endverb
+    \field{journaltitle}{Nature}
+    \field{year}{2015}
+  \endentry
+
+  \entry{VanRoosmalen1985}{article}{}
+    \name{author}{1}{}{%
+      {{hash=vRMGM}{%
+         prefix={van},
+         prefixi={v\bibinitperiod},
+         family={Roosmalen},
+         familyi={R\bibinitperiod},
+         given={M.\bibnamedelima G.\bibnamedelima M.},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RMGMv1}
+    \strng{fullhash}{RMGMv1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1985}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{{Habitat preferences, diet, feeding strategy and social
+  organization of the black spider monkey (Ateles paniscus paniscus Linnaeus
+  1758) in Surinam}}
+    \field{volume}{15}
+    \verb{file}
+    \verb :home/jacob/Documents/Project/Data/Papers/Habitat{\_}preferences{\_}d
+    \verb iet{\_}feeding{\_}strategy{\_}and{\_}soci.pdf:pdf
+    \endverb
+    \field{journaltitle}{Acta Amazonica}
+    \field{year}{1985}
+  \endentry
+
+  \entry{Russ2013}{book}{}
+    \name{author}{1}{}{%
+      {{hash=RJ}{%
+         family={Russ},
+         familyi={R\bibinitperiod},
+         given={Jon},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Pelagic Publishing}%
+    }
+    \strng{namehash}{RJ1}
+    \strng{fullhash}{RJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{edition}{1}
+    \field{title}{{British Bat Calls: A Guide to Species Identification}}
+    \field{year}{2013}
+  \endentry
+
+  \entry{TheRoy2003}{report}{}
+    \name{author}{1}{}{%
+      {{hash=STR}{%
+         family={Society},
+         familyi={S\bibinitperiod},
+         given={The\bibnamedelima Royal},
+         giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{STR1}
+    \strng{fullhash}{STR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2003}
+    \field{labeldatesource}{year}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{pages}{1\bibrangedash 65}
+    \field{title}{{Measuring biodiversity for conservation}}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Society - 2003 - Measuring biodiversity for conservation.pdf:pdf
+    \endverb
+    \field{type}{techreport}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Stevens1937}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SSS}{%
+         family={Stevens},
+         familyi={S\bibinitperiod},
+         given={S.\bibnamedelima S.},
+         giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=VJ}{%
+         family={Volkmann},
+         familyi={V\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=NEB}{%
+         family={Newman},
+         familyi={N\bibinitperiod},
+         given={E.\bibnamedelima B.},
+         giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SSSVJNEB1}
+    \strng{fullhash}{SSSVJNEB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1937}
+    \field{labeldatesource}{year}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    A subjective scale for the measurement of pitch was constructed from
+  determinations of the half‐value of pitches at various frequencies. This
+  scale differs from both the musical scale and the frequency scale, neither of
+  which is subjective. Five observers fractionated tones of 10 different
+  frequencies at a loudness level of 60 db. From these fractionations a
+  numerical scale was constructed which is proportional to the perceived
+  magnitude of subjective pitch. In numbering the scale the 1000‐cycle tone
+  was assigned the pitch of 1000 subjective units (mels). The close agreement
+  of the pitch scale with an integration of the differential thresholds (DL's)
+  shows that, unlike the DL's for loudness, all DL's for pitch are of uniform
+  subjective magnitude. The agreement further implies that pitch and
+  differential sensitivity to pitch are both rectilinear functions of extent on
+  the basilar membrane. The correspondence of the pitch scale and the
+  experimentally determined location of the resonant areas of the basilar
+  membrane suggests that, in cutting a pitch in half, the observer adjusts the
+  tone until it stimulates a position half‐way from the original locus to the
+  apical end of the membrane. Measurement of the subjective size of musical
+  intervals (such as octaves) in terms of the pitch scale shows that the
+  intervals become larger as the frequency of the mid‐point of the interval
+  increases (except in the two highest audible octaves). This result confirms
+  earlier judgments as to the relative size of octaves in different parts of
+  the frequency range.%
+    }
+    \field{number}{3}
+    \field{pages}{185\bibrangedash 190}
+    \field{title}{{A Scale for the Measurement of the Psychological Magnitude
+  Pitch}}
+    \field{volume}{8}
+    \field{journaltitle}{Journal of the Acoustical Society of America}
+    \field{year}{1937}
+  \endentry
+
+  \entry{Stevenson2015}{article}{}
+    \name{author}{6}{}{%
+      {{hash=SBC}{%
+         family={Stevenson},
+         familyi={S\bibinitperiod},
+         given={Ben\bibnamedelima C},
+         giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=BDL}{%
+         family={Borchers},
+         familyi={B\bibinitperiod},
+         given={David\bibnamedelima L},
+         giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=AR}{%
+         family={Altwegg},
+         familyi={A\bibinitperiod},
+         given={Res},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Swift},
+         familyi={S\bibinitperiod},
+         given={J},
+         giveni={J},
+      }}%
+      {{hash=GDM}{%
+         family={Gillespie},
+         familyi={G\bibinitperiod},
+         given={Douglas\bibnamedelima M},
+         giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MGJ}{%
+         family={Measey},
+         familyi={M\bibinitperiod},
+         given={G\bibnamedelima John},
+         giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SBC+1}
+    \strng{fullhash}{SBCBDLARSJGDMMGJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{year}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \verb{doi}
+    \verb 10.1111/2041-210X.12291
+    \endverb
+    \field{pages}{38\bibrangedash 48}
+    \field{title}{{A general framework for animal density estimation from
+  acoustic detections across a fixed microphone array}}
+    \field{volume}{6}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Stevenson et al. - 2015 - A general framework for animal density e
+    \verb stimation from acoustic detections across a fixed microphone array.pd
+    \verb f:pdf
+    \endverb
+    \field{journaltitle}{Methods in Ecology and Evolution}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Stowell2014}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SD}{%
+         family={Stowell},
+         familyi={S\bibinitperiod},
+         given={Dan},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=PMD}{%
+         family={Plumbley},
+         familyi={P\bibinitperiod},
+         given={Mark\bibnamedelima D.},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \keyw{accepted 26 june
+  2014,bioacoustics,birds,birdsong,classification,machine learning,published 17
+  july 2014,submitted 25 may 2014,vocalisation}
+    \strng{namehash}{SDPMD1}
+    \strng{fullhash}{SDPMD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{year}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Automatic species classification of birds from their sound is a
+  computational tool of increasing importance in ecology, conservation
+  monitoring and vocal communication studies. To make classification useful in
+  practice, it is crucial to improve its accuracy while ensuring that it can
+  run at big data scales. Many approaches use acoustic measures based on
+  spectrogram-type data, such as the Mel-frequency cepstral coefficient (MFCC)
+  features which represent a manually-designed summary of spectral information.
+  However, recent work in machine learning has demonstrated that features
+  learnt automatically from data can often outperform manually-designed feature
+  transforms. Feature learning can be performed at large scale and
+  "unsupervised", meaning it requires no manual data labelling, yet it can
+  improve performance on "supervised" tasks such as classification. In this
+  work we introduce a technique for feature learning from large volumes of bird
+  sound recordings, inspired by techniques that have proven useful in other
+  domains. We experimentally compare twelve different feature representations
+  derived from the Mel spectrum (of which six use this technique), using four
+  large and diverse databases of bird vocalisations, with a random forest
+  classifier. We demonstrate that MFCCs are of limited power in this context,
+  leading to worse performance than the raw Mel spectral data. Conversely, we
+  demonstrate that unsupervised feature learning provides a substantial boost
+  over MFCCs and Mel spectra without adding computational complexity after the
+  model has been trained. The boost is particularly notable for single-label
+  classification tasks at large scale. The spectro-temporal activations learned
+  through our procedure resemble spectro-temporal receptive fields calculated
+  from avian primary auditory forebrain.%
+    }
+    \verb{doi}
+    \verb 10.7717/peerj.488
+    \endverb
+    \field{pages}{1\bibrangedash 31}
+    \field{title}{{Automatic large-scale classification of bird sounds is
+  strongly improved by unsupervised feature learning}}
+    \field{volume}{2}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Stowell, Plumbley - 2014 - Automatic large-scale classification of
+    \verb  bird sounds is strongly improved by unsupervised feature learning.pd
+    \verb f:pdf
+    \endverb
+    \field{journaltitle}{PeerJ}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Walters2012}{article}{}
+    \name{author}{12}{}{%
+      {{hash=WCL}{%
+         family={Walters},
+         familyi={W\bibinitperiod},
+         given={Charlotte\bibnamedelima L.},
+         giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=FR}{%
+         family={Freeman},
+         familyi={F\bibinitperiod},
+         given={Robin},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Collen},
+         familyi={C\bibinitperiod},
+         given={Alanna},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DC}{%
+         family={Dietz},
+         familyi={D\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={{Brock Fenton}},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=JG}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={Gareth},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=OMK}{%
+         family={Obrist},
+         familyi={O\bibinitperiod},
+         given={Martin\bibnamedelima K.},
+         giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=PSJ}{%
+         family={Puechmaille},
+         familyi={P\bibinitperiod},
+         given={S{\'{e}}bastien\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Sattler},
+         familyi={S\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SBM}{%
+         family={Siemers},
+         familyi={S\bibinitperiod},
+         given={Bj{\"{o}}rn\bibnamedelima M.},
+         giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PS}{%
+         family={Parsons},
+         familyi={P\bibinitperiod},
+         given={Stuart},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=JKE}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={Kate\bibnamedelima E.},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \keyw{Acoustic monitoring,Chiroptera,Classification,Echolocation,Ensembles
+  of artificial neural networks,Indicator species,Species identification}
+    \strng{namehash}{WCL+1}
+    \strng{fullhash}{WCLFRCADCBMJGOMKPSJSTSBMPSJKE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{year}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{abstract}{%
+    1. Acoustic methods are used increasingly to survey and monitor bat
+  populations. However, the use of acoustic methods at continental scales can
+  be hampered by the lack of standardized and objective methods to identify all
+  species recorded. This makes comparable continent-wide monitoring difficult,
+  impeding progress towards developing biodiversity indicators, transboundary
+  conservation programmes and monitoring species distribution changes. 2. Here
+  we developed a continental-scale classifier for acoustic identification of
+  bats, which can be used throughout Europe to ensure objective, consistent and
+  comparable species identifications. We selected 1350 full-spectrum reference
+  calls from a set of 15 858 calls of 34 European species, from EchoBank, a
+  global echolocation call library. We assessed 24 call parameters to evaluate
+  how well they distinguish between species and used the 12 most useful to
+  train a hierarchy of ensembles of artificial neural networks to distinguish
+  the echolocation calls of these bat species. 3. Calls are first classified to
+  one of five call-type groups, with a median accuracy of 976{\%}. The median
+  species-level classification accuracy is 837{\%}, providing robust
+  classification for most European species, and an estimate of classification
+  error for each species. 4. These classifiers were packaged into an online
+  tool, iBatsID, which is freely available, enabling anyone to classify
+  European calls in an objective and consistent way, allowing standardized
+  acoustic identification across the continent. 5. Synthesis and applications.
+  iBatsID is the first freely available and easily accessible continental-
+  scale bat call classifier, providing the basis for standardized, continental
+  acoustic bat monitoring in Europe. This method can provide key information to
+  managers and conservation planners on distribution changes and changes in bat
+  species activity through time.%
+    }
+    \verb{doi}
+    \verb 10.1111/j.1365-2664.2012.02182.x
+    \endverb
+    \field{issn}{00218901}
+    \field{number}{5}
+    \field{pages}{1064\bibrangedash 1074}
+    \field{title}{{A continental-scale tool for acoustic identification of
+  European bats}}
+    \field{volume}{49}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Walters et al. - 2012 - A continental-scale tool for acoustic iden
+    \verb tification of European bats.pdf:pdf
+    \endverb
+    \field{journaltitle}{Journal of Applied Ecology}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Xu2004}{article}{}
+    \name{author}{6}{}{%
+      {{hash=XM}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Min},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DLY}{%
+         family={Duan},
+         familyi={D\bibinitperiod},
+         given={Ling\bibnamedelima Yu},
+         giveni={L\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Cai},
+         familyi={C\bibinitperiod},
+         given={Jianfei},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CLT}{%
+         family={Chia},
+         familyi={C\bibinitperiod},
+         given={Liang\bibnamedelima Tien},
+         giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=XC}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Changsheng},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=TQ}{%
+         family={Tian},
+         familyi={T\bibinitperiod},
+         given={Qi},
+         giveni={Q\bibinitperiod},
+      }}%
+    }
+    \keyw{by the successful story,choosing hmm is
+  motivated,classification,followed by major voting,hierarchical,hmm in speech
+  recognition,identification as an improved,of,our proposed hmm-based
+  classifiers,svm classifier,treat spe-,unlike the frame-based svm,work instead
+  of using}
+    \strng{namehash}{XM+1}
+    \strng{fullhash}{XMDLYCJCLTXCTQ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{year}
+    \field{sortinit}{X}
+    \field{sortinithash}{X}
+    \field{abstract}{%
+    With the exponential growth in the production creation of multimedia data,
+  there is an increasing need for video semantic analysis. Audio, as a
+  significant part of video, provides important cues to human perception when
+  humans are browsing and understanding video contents. To detect semantic
+  content by useful audio information, we introduce audio keywords which are
+  sets of specific audio sounds related to semantic events. In our previous
+  work, we designed a hierarchical Support Vector Machine (SVM) classifier for
+  audio keyword identification. However, a weakness of our previous work is
+  that audio signals are artificially segmented into 20 ms frames for
+  frame-based SVM identification without any contextual information. In this
+  paper, we propose a classification method based on Hidden Markov Modal (HMM)
+  for audio keyword identification as an improved work instead of using
+  hierarchical SVM classifier. Choosing HMM is motivated by the successful
+  story of HMM in speech recognition. Unlike the frame-based SVM classification
+  followed by major voting, our proposed HMM-based classifiers treat specific
+  sound as a continuous time series data and employ hidden states transition to
+  capture context information. In particular, we study how to find an effective
+  HMM, i.e., determining topology, observation vectors and statistical
+  parameters of HMM. We also compare different HMM structures with different
+  hidden states, and adjust time series data with variable length. Experimental
+  data includes 40 minutes basketball audio which comes from real-time sports
+  games. Experimental results show that, for audio keyword generation, the
+  proposed HMM-based method outperforms the previous hierarchical SVM.
+  {\textcopyright} Springer-Verlag 2004.%
+    }
+    \field{issn}{03029743}
+    \field{pages}{566\bibrangedash 574}
+    \field{title}{{HMM-based audio keyword generation}}
+    \field{volume}{3333}
+    \verb{file}
+    \verb :home/jacob/Downloads/HMM-Based Audio Keyword Generation.pdf:pdf
+    \endverb
+    \field{journaltitle}{Lecture Notes in Computer Science (including subseries
+  Lecture Notes in Artificial Intelligence and Lecture Notes in
+  Bioinformatics)}
+    \field{year}{2004}
+  \endentry
+
+  \entry{ZamoraGutierrez2016}{article}{}
+    \name{author}{9}{}{%
+      {{hash=ZGV}{%
+         family={Zamora-Gutierrez},
+         familyi={Z\bibinitperiod-G\bibinitperiod},
+         given={Veronica},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=LGC}{%
+         family={Lopez-Gonzalez},
+         familyi={L\bibinitperiod-G\bibinitperiod},
+         given={Celia},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MMC}{%
+         family={{MacSwiney Gonzalez}},
+         familyi={M\bibinitperiod},
+         given={M.\bibnamedelima Cristina},
+         giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=FB}{%
+         family={Fenton},
+         familyi={F\bibinitperiod},
+         given={Brock},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=JG}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={Gareth},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=KEK}{%
+         family={Kalko},
+         familyi={K\bibinitperiod},
+         given={Elisabeth\bibnamedelima K.V.},
+         giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=PSJ}{%
+         family={Puechmaille},
+         familyi={P\bibinitperiod},
+         given={Sebastien\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SV}{%
+         family={Stathopoulos},
+         familyi={S\bibinitperiod},
+         given={Vassilios},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=JKE}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={Kate\bibnamedelima E.},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \keyw{Neotropical,acoustic identification,guild,hierarchical
+  classification,machine learning,random forest,whispering bats}
+    \strng{namehash}{ZGV+1}
+    \strng{fullhash}{ZGVLGCMMCFBJGKEKPSJSVJKE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{year}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{abstract}{%
+    * Monitoring global biodiversity is critical for understanding responses to
+  anthropogenic change, but biodiversity monitoring is often biased away from
+  tropical, megadiverse areas that are experiencing more rapid environmental
+  change. Acoustic surveys are increasingly used to monitor biodiversity
+  change, especially for bats as they are important indicator species and most
+  use sound to detect, localise and classify objects. However, using bat
+  acoustic surveys for monitoring poses several challenges, particularly in
+  megadiverse regions. Many species lack reference recordings, some species
+  have high call similarity or differ in call detectability, and quantitative
+  classification tools, such as machine learning algorithms, have rarely been
+  applied to data from these areas. * Here, we collate a reference call library
+  for bat species that occur in a megadiverse country, Mexico. We use 4685
+  search-phase calls from 1378 individual sequences of 59 bat species to create
+  automatic species identification tools generated by machine learning
+  algorithms (Random Forest). We evaluate the improvement in species-level
+  classification rates gained by using hierarchical classifications, reflecting
+  either taxonomic or ecological constraints (guilds) on call design, and
+  examine how classification rate accuracy changes at different hierarchical
+  levels (family, genus and guild). * Species-level classification of calls had
+  a mean accuracy of 66{\%}, and the use of hierarchies improved mean
+  species-level classification accuracy by up to 6{\%} (species within families
+  72{\%}, species within genera 71{\textperiodcentered}2{\%} and species within
+  guilds 69{\textperiodcentered}1{\%}). Classification accuracy to family,
+  genus and guild-level was 91{\textperiodcentered}7{\%},
+  77{\textperiodcentered}8{\%} and 82{\textperiodcentered}5{\%}, respectively.
+  * The bioacoustic identification tools we have developed are accurate for
+  rapid biodiversity assessments in a megadiverse region and can also be used
+  effectively to classify species at broader taxonomic or ecological levels.
+  This flexibility increases their usefulness when there are incomplete species
+  reference recordings and also offers the opportunity to characterise and
+  track changes in bat community structure. Our results show that bat
+  bioacoustic surveys in megadiverse countries have more potential than
+  previously thought to monitor biodiversity changes and can be used to direct
+  further developments of bioacoustic monitoring programs in Mexico.%
+    }
+    \verb{doi}
+    \verb 10.1111/2041-210X.12556
+    \endverb
+    \field{issn}{2041210X}
+    \field{number}{9}
+    \field{pages}{1082\bibrangedash 1091}
+    \field{title}{{Acoustic identification of Mexican bats based on taxonomic
+  and ecological constraints on call design}}
+    \field{volume}{7}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Zamora-Gutierrez et al. - 2016 - Acoustic identification of Mexica
+    \verb n bats based on taxonomic and ecological constraints on call design.p
+    \verb df:pdf
+    \endverb
+    \field{journaltitle}{Methods in Ecology and Evolution}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Zilli2014}{article}{}
+    \name{author}{4}{}{%
+      {{hash=ZD}{%
+         family={Zilli},
+         familyi={Z\bibinitperiod},
+         given={Davide},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=PO}{%
+         family={Parson},
+         familyi={P\bibinitperiod},
+         given={Oliver},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=MGV}{%
+         family={Merrett},
+         familyi={M\bibinitperiod},
+         given={Geoff\bibnamedelima V.},
+         giveni={G\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Rogers},
+         familyi={R\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Citizen Science, Artificial Intelligence, Machine}
+    \strng{namehash}{ZD+1}
+    \strng{fullhash}{ZDPOMGVRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{year}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{abstract}{%
+    {\textless}p{\textgreater}In recent years, the field of computational
+  sustainability has striven to apply artificial intelligence techniques to
+  solve ecological and environmental problems. In ecology, a key issue for the
+  safeguarding of our planet is the monitoring of biodiversity. Automated
+  acoustic recognition of species aims to provide a cost-effective method for
+  biodiversity monitoring. This is particularly appealing for detecting
+  endangered animals with a distinctive call, such as the New Forest cicada. To
+  this end, we pursue a crowdsourcing approach, whereby the millions of
+  visitors to the New Forest, where this insect was historically found, will
+  help to monitor its presence by means of a smartphone app that can detect its
+  mating call. Existing research in the field of acoustic insect detection has
+  typically focused upon the classification of recordings collected from fixed
+  field microphones. Such approaches segment a lengthy audio recording into
+  individual segments of insect activity, which are independently classified
+  using cepstral coefficients extracted from the recording as features. This
+  paper reports on a contrasting approach, whereby we use crowdsourcing to
+  collect recordings via a smartphone app, and present an immediate feedback to
+  the users as to whether an insect has been found. Our classification approach
+  does not remove silent parts of the recording via segmentation, but instead
+  uses the temporal patterns throughout each recording to classify the insects
+  present. We show that our approach can successfully discriminate between the
+  call of the New Forest cicada and similar insects found in the New Forest,
+  and is robust to common types of environment noise. A large scale trial
+  deployment of our smartphone app collected over 6000 reports of insect
+  activity from over 1000 users. Despite the cicada not having been
+  rediscovered in the New Forest, the effectiveness of this approach was
+  confirmed for both the detection algorithm, which successfully identified the
+  same cicada through the app in countries where the same species is still
+  present, and of the crowdsourcing methodology, which collected a vast number
+  of recordings and involved thousands of
+  contributors.{\textless}/p{\textgreater}%
+    }
+    \field{issn}{10769757}
+    \field{pages}{805\bibrangedash 827}
+    \field{title}{{A hidden Markov model-based acoustic cicada detector for
+  crowdsourced smartphone biodiversity monitoring}}
+    \field{volume}{51}
+    \verb{file}
+    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
+    \verb ed/Zilli et al. - 2014 - A hidden Markov model-based acoustic cicada
+    \verb detector for crowdsourced smartphone biodiversity monitoring.pdf:pdf
+    \endverb
+    \field{journaltitle}{Journal of Artificial Intelligence Research}
+    \field{year}{2014}
+  \endentry
+\enddatalist
+\endinput

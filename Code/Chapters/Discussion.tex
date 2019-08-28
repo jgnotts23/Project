@@ -1,0 +1,15 @@
+% Chapter Template
+
+\chapter{Discussion} % Main chapter title
+
+\label{Discussion} % Change X to a consecutive number; for referencing this chapter elsewhere, use \ref{ChapterX}
+
+\subsection{Machine learning and its effectiveness}
+Perhaps surprisingly, training the CNN on the data provided by \cite{Hill2018} was quite effective despite this data coming from a different country at a different time. This success was marred by low precision despite the potentially high recall. However it cannot be said for certain if the recall was high as that would require manual validation of the whole dataset to indentify all the gunshots and thus whether they were successfully identified by the CNN or not. That being said, due to the surprisingly high volume of gunshots identified, it seems logical to assume that the recall was high. Re-training the CNN on both the output of the Belize model and a combination of the Belize and Osa Peninsula data proved ineffective in reducing the volume of false positives returned. However, re-training the CNN on the Osa Peninsual data with the negatives provided being previously identified false positives, seemed to bring the precision in line with, or slightly better than, the Belize model. This strongly suggests that the primary factor in determining the effectiveness of a CNN model in studies such as this is the quality of the dataset used to train the model on. If time had permitted, the logical next step of this study would have been to increase the size of the dataset and continue to retrain the model on an ever larger, more accurate dataset. This may be the only way to improve the precision going forward.
+
+
+\subsection{Spatio-temporal hunting patterns on the Osa Peninsula}
+Correlation between gunshot frequency and the day of the week proved to be insignificant but visual inspection of the data does seem to suggest a non-unfiform distribution across the days and a relatively low p-value suggests this may prove significant if more data was gathered. Similarly, there was no significant correlation between time of day and gunshot frequency but again, chi-squared test results returned a low p-value so the size of the dataset is probably playing a part again. The gunshot frequency was around four times lower at night which seems to suggest non-uniformity and contrasts completely with the findings of \cite{Astaras2017}. This may be due to infrequent patrolling in these areas. Jenna Lawson says that patrols in the national parks are at best once per day in the mornings and usually only cover a small percentage of the total park area so perhaps this is a negligable hinderance to illegal hunters. 
+
+
+\subsection{Conclusion}

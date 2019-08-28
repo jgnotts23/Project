@@ -38,17 +38,22 @@ def append_ext(fn):
     return str(fn) + ".jpg"
 
 # Read in test and train data
-gunshot_data = pd.read_csv('../Data/Gunshot_recordings/Spectra/gun_results.csv', dtype=str)
-blank_data = pd.read_csv('../Data/Gunshot_recordings/Spectra/results.csv', dtype=str)
-blank_data = blank_data.sample(n=358, random_state=1)
-traindf = gunshot_data.append(blank_data)
-train_dir = '../Data/Gunshot_recordings/Spectra'
+#gunshot_data = pd.read_csv('../Data/Gunshot_recordings/Spectra/gun_results.csv', dtype=str)
+#blank_data = pd.read_csv('../Data/Gunshot_recordings/Spectra/results.csv', dtype=str)
+#blank_data = blank_data.sample(n=358, random_state=1)
+#traindf = gunshot_data.append(blank_data)
+#traindf["ID"]=traindf["ID"].apply(append_ext)
 
-#testdf = pd.read_csv(str(sys.argv[1]),dtype=str)
-#test_dir = str(sys.argv[2])
+#traindf = traindf.append(pd.read_csv('/media/jacob/Samsung_external/Train/train.csv', dtype=str, header=None, names=["Wav_file", "Class", "Image_file", "ID"]))
+#train_dir = '/media/jacob/Samsung_external/Train'
+
+traindf = pd.read_csv(str(sys.argv[1]),dtype=str, names=["ID", "Class", "File"])
+train_dir = str(sys.argv[2])
+#traindf["Class"] = pd.to_numeric(traindf["Class"])
+
 
 # Add file extensions to ID
-traindf["ID"]=traindf["ID"].apply(append_ext)
+#traindf["ID"]=traindf["ID"].apply(append_ext)
 
 # Rescale normalises images, helps improve convergence
 datagen = ImageDataGenerator(rescale = 1./255., validation_split = 0.25)
@@ -136,5 +141,8 @@ model.fit_generator(generator = train_generator,
 model.evaluate_generator(generator = valid_generator, steps = STEP_SIZE_VALID
 )
 
-model.save('../Data/my_model.h5')  # creates a HDF5 file 'my_model.h5'
+model.save('../Data/False_pos_model.h5')  # creates a HDF5 file 'my_model.h5'
 del model  # deletes the existing model
+
+
+# run train_cnn.py /media/jacob/Samsung_external/Train/Results/train.csv /media/jacob/Samsung_external/Train

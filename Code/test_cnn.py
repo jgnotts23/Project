@@ -35,19 +35,32 @@ import sys
 from scipy import stats
 
 
-model = load_model('../Data/my_model.h5')
+model = load_model('../Data/Updated_model_extra_negs.h5')
 
 
 #test_filenames = os.listdir(sys.argv[3])
+#positives = pd.read_csv(str(sys.argv[1]),dtype=str, header=None, names=["ID", "Class", "File"])
+#negatives = pd.read_csv(str(sys.argv[2]),dtype=str, header=None, names=["ID", "Class", "File"])
+
+
+
+
+#columnsTitles=["ID", "Class", "File"]
+#negatives=negatives.reindex(columns=columnsTitles)
+
+
 testdf = pd.read_csv(str(sys.argv[1]),dtype=str)
+#testdf = pd.concat([positives, negatives])
 test_filenames = np.asarray(testdf['File'])
 
-def append_ext(fn):
-    return str(fn) + ".jpg"
+testdf['ID'] = [str(sys.argv[3]) + s for s in testdf['ID']]
 
-testdf["ID"]=testdf["ID"].apply(append_ext)
 
-# run test_cnn.py /media/jacob/Samsung_external/SQ258/Spectra/Audio2/results.csv /media/jacob/Samsung_external/SQ258/Spectra/Audio2
+#def append_ext(fn):
+    #return str(fn) + ".jpg"
+
+#testdf["ID"]=testdf["ID"].apply(append_ext)
+
 
 # Make dataframe for test data
 #testdf=pd.DataFrame({"ID":test_IDs,
@@ -91,17 +104,22 @@ results=pd.DataFrame({"ID":test_IDs,
                       "Predicted_class":predicted_class_indices,
                       "File":test_filenames})
 
-def append_wav(fn):
-    return str(fn) + ".wav"
+#def append_wav(fn):
+#    return str(fn) + ".wav"
 
-results["File"]=results["File"].apply(append_wav)
+#results["File"]=results["File"].apply(append_wav)
 
 positives = results.loc[results['Predicted_class'] == 1]
-positive_filenames = np.asarray(positives['File'])
-np.savetxt(str(sys.argv[2]) + '/positives.csv', positive_filenames, delimiter=",", fmt='%s')
-#cat positives.csv | xargs -I % cp % positives
+#positive_filenames = np.asarray(positives['File'])
 
-#run test_cnn.py /media/jacob/Samsung_external/SQ283/Spectra/gun_results.csv /media/jacob/Samsung_external/SQ283/Spectra
+positives.to_csv(str(sys.argv[2]) + '/extranegs_model.csv', index=False)
+
+#np.savetxt(str(sys.argv[2]) + '/positives.csv', positive_filenames, delimiter=",", fmt='%s')
+#cat ../Spectra/positives.csv | xargs -I % cp % positives
+
+#run test_cnn.py /media/jacob/Samsung_external/SQ283/Spectra/Audio1/confirmed.csv /media/jacob/Samsung_external/SQ283/Spectra/Audio1/negatives.csv /media/jacob/Samsung_external/SQ283/Spectra/Audio1
+
+#run test_cnn.py /media/jacob/Samsung_external/SQ258/Spectra/Audio1/gun_results.csv /media/jacob/Samsung_external/SQ258/Spectra/Audio1 SQ258_
 
 
 # results=pd.DataFrame({"Filename":filenames,

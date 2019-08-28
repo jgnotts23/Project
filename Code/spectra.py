@@ -8,50 +8,34 @@ __version__ = '0.0.1'
 
 ## Imports ##
 import matplotlib.pyplot as plot
-#from scipy.io import wavfile
 import numpy as np
 import os
 from pydub import AudioSegment
-#import glob
 import librosa
 import librosa.display
 import pandas as pd
-#import random
 import subprocess
 from subprocess import call
 import sys
 
 np.random.seed(23)
 
-test = pd.DataFrame(columns=('ID', 'Class', 'File'))
-#train = pd.DataFrame(columns=('ID', 'Class', 'File'))
-
-
-#### Make spectrograms ###
 def make_spectra(source, target):
 
     files = []
     i = 0
 
-    #cmd = 'ls -1 ' + source + ' | wc -l > count.txt'
-    #number_files = subprocess.call(cmd, shell=True)
-
-    #number_files = int(open("count.txt").readline().rstrip())
-
     for root, dirs, files in os.walk(source):
         for file in files:
             if file.endswith((".WAV", ".wav")):
-        #while True:
-            #try:
-                name = (os.path.splitext(file)[0])
+
+                name = (os.path.splitext(file)[0]) # extract filename
                 plot.interactive(False)
 
+                # Load audio data
                 clip, sample_rate = librosa.load(root + '/' + file, sr=None)
 
-            #except EOFError as error:
-                #print("EOFError on " + str(file))
-                #continue
-
+                # Plot spectrogram
                 fig = plot.figure(figsize=[0.72, 0.72])
                 ax = fig.add_subplot(111)
                 ax.axes.get_xaxis().set_visible(False)
@@ -63,7 +47,7 @@ def make_spectra(source, target):
 
                 filename = target + '/' + str(i) + '.jpg'
                 test.at[i, 'ID'] = i
-                test.at[i, 'Class'] = '1'
+                test.at[i, 'Class'] = 'NA'
                 test.at[i, 'File'] = name
 
                 plot.savefig(filename, dpi=400, bbox_inches='tight', pad_inches=0)
@@ -71,30 +55,37 @@ def make_spectra(source, target):
                 fig.clf()
                 plot.close(fig)
                 plot.close('all')
-                #
-                # progress = int((i / total) * 100)
-                # print(str(progress) + '%')
-                #print(str(i) + '/' + str(number_files))
 
                 i = i + 1
+
+                progress = int((i / total) * 100)
+                print(str(progress) + '%')
+
                 del filename, name, clip, sample_rate, fig, ax, S
 
-#x = int(os.getenv("PBS_ARRAY_INDEX")) #assigned by HPC shell script
-#folder = '/Audio ' + str(x)
 
-# total=0
-# x=[]
-# for file in os.listdir(str(sys.argv[1])):
-#     if file.endswith('.wav'):
-#         x.append(file)
-#         total+=1
-# print('Audio files found: ' +str(total))
-
-#count = len([name for name in os.listdir(sys.argv[1]) if os.path.isfile(name)])
-#print(str(count) + ' audio files found')
+total=0
+x=[]
+for file in os.listdir(str(sys.argv[1])):
+    if file.endswith(('.wav', '.WAV')):
+        x.append(file)
+        total+=1
+print('Audio files found: ' +str(total))
 
 test = pd.DataFrame(columns=('ID', 'Class', 'File'))
 make_spectra(str(sys.argv[1]), str(sys.argv[2]))
-test.to_csv(str(sys.argv[2]) + '/gun_results.csv', index=False)
 
-#run spectra.py /media/jacob/Samsung_external/Rancho_bajo/Cut /media/jacob/Samsung_external/Rancho_bajo/Spectra
+def append_jpg(fn):
+    return str(fn) + ".jpg"
+
+def append_wav(fn):
+    return str(fn) + ".wav"
+
+test["ID"]=test["ID"].apply(append_jpg)
+test["File"]=test["File"].apply(append_wav)
+
+
+
+test.to_csv(str(sys.argv[2]) + '/spectra.csv', index=False)
+
+#run spectra.py /media/jacob/Samsung_external/SQ283/Cut/Audio2 /media/jacob/Samsung_external/SQ283/Spectra/Audio2
