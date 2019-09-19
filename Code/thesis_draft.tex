@@ -37,9 +37,10 @@ headsepline, % Uncomment to get a line under the headeroooo
 %chapterinoneline, % Uncomment to place the chapter title next to the number on one line
 %consistentlayout, % Uncomment to change the layout of the declaration, abstract and acknowledgements pages to match the default layout
 ]{MastersDoctoralThesis} % The class file specifying the document structure
-
+\usepackage{dcolumn}
 \usepackage[utf8]{inputenc} % Required for inputting international characters
 \usepackage[T1]{fontenc} % Output font encoding for international characters
+\usepackage{subfig,graphicx}
 
 \usepackage{mathpazo} % Use the Palatino font by default
 
@@ -74,7 +75,7 @@ headsepline, % Uncomment to get a line under the headeroooo
 %	THESIS INFORMATION
 %----------------------------------------------------------------------------------------
 
-\thesistitle{Using acoustic monitoring and machine learning to automate the detection of illegal activity in Costa Rica} % Your thesis title, this is used in the title and abstract, print it elsewhere with \ttitle
+\thesistitle{Using acoustic monitoring and machine learning to detect illegal hunting in \\ Costa Rica} % Your thesis title, this is used in the title and abstract, print it elsewhere with \ttitle
 \supervisor{Dr. Cristina \textsc{Banks-Leite}\break
 Dr. James \textsc{Rosindell}} % Your supervisor's name, this is used in the title page, print it elsewhere with \supname
 \examiner{} % Your examiner's name, this is not currently used anywhere in the template, print it elsewhere with \examname
@@ -192,7 +193,10 @@ Dr. James \textsc{Rosindell}} % Your supervisor's name, this is used in the titl
 
 \begin{abstract}
 \addchaptertocentry{\abstractname} % Add the abstract to the table of contents
-Abstract written here
+
+\noindent The rapid loss of global biodiversity makes the development of more powerful and cost-effective mitigation strategies of ever-increasing importance. Advances in passive audio monitoring (PAM) and machine learning are providing some of those vital strategies. The reduction in costs and the increasing storage capacity of acoustic sensors are enabling the cultivation of large acoustic datasets which can be utilised for the monitoring of biodiversity, the detection of illegal activity, and soundscaping, among other uses. Despite the potential benefits of such large acoustic datasets, size has its disadvantages, as traditional analytical techniques become far more labour-intensive or completely unusable. This study explores the use of advanced machine learning techniques, specifically deep convolutional neural networks (CNNs), as a potential tool to help identify illegal hunting in protected areas. In this study I demonstrate that, despite the relatively low precision achieved at this stage, CNNs are still a highly effective method in improving the detection of illegal hunting, and that analysis of acoustic data can provide useful ecological and practical information regarding hunting behaviours. I successfully trained a CNN using acoustic data from a National Park in Belize and was able to use that model to detect gunshots in acoustic data from the Osa Peninsula in Costa Rica. I also found that the frequency of gunshots can be predicted by the day of the week and the time of day. Specifically, most gunshots were detected in the morning and far fewer were detected at night, in stark contrast to the findings of similar studies. These findings will not only reduce the labour-intensiveness of current hunting detection, but also provides immediately useful information regarding hunting tendencies. This will allow rangers in protected areas, with their notably limited resources, to develop more effective management strategies and thus aid conservation in the region.
+
+
 \end{abstract}
 
 %----------------------------------------------------------------------------------------
@@ -277,7 +281,7 @@ Write acknowledgements here
 \include{Chapters/Methods}
 \include{Chapters/Results}
 \include{Chapters/Discussion}
-%\include{Chapters/Chapter5}
+\include{Chapters/Conclusion}
 
 %----------------------------------------------------------------------------------------
 %	THESIS CONTENT - APPENDICES

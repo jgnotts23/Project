@@ -57,9 +57,13 @@ def time_data(dataframe):
     for filepath in dataframe:
         filename = filepath.split("/Audio1/", 1)[1]
         Area, reg_time, File = get_time(filepath)
+        #ID = str(Area) + '_' + str(filename)
+        #print(ID)
         new_row = pd.Series([Area, filename, reg_time.year, reg_time.month, reg_time.day, reg_time.hour, reg_time.minute, reg_time.second, reg_time.timestamp(), weekDays[reg_time.weekday()]], index=(colnames))
         data.loc[i] = new_row
         i = i + 1
+
+        del Area, reg_time, File, filename
 
     return data
 
@@ -83,11 +87,11 @@ def time_data(dataframe):
 
 spec_dir = '/media/jacob/Samsung_external/' + str(sys.argv[1]) + '/Spectra/Audio1/'
 wav_dir = '/media/jacob/Samsung_external/' + str(sys.argv[1]) + '/Cut/Audio1/'
-results_dir = '/media/jacob/Samsung_external/' + str(sys.argv[1]) + '/Results/time_confirmed.csv'
+results_dir = '/media/jacob/Samsung_external/' + str(sys.argv[1]) + '/Results/time.csv'
 
 colnames = ("ID", "Class", "File")
 
-data = pd.read_csv(spec_dir + 'confirmed.csv', header=0, dtype=str, names=colnames)
+data = pd.read_csv(spec_dir + 'gun_results.csv', header=0, dtype=str, names=colnames)
 wav_files = data['File']
 wav_files = [wav_dir + s for s in wav_files]
 

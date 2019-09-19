@@ -633,120 +633,6 @@
     \field{year}{2016}
   \endentry
 
-  \entry{Blumstein2011}{article}{}
-    \name{author}{14}{}{%
-      {{hash=BDT}{%
-         family={Blumstein},
-         familyi={B\bibinitperiod},
-         given={Daniel\bibnamedelima T},
-         giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod},
-      }}%
-      {{hash=MDJ}{%
-         family={Mennill},
-         familyi={M\bibinitperiod},
-         given={Daniel\bibnamedelima J},
-         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
-      }}%
-      {{hash=CP}{%
-         family={Clemins},
-         familyi={C\bibinitperiod},
-         given={Patrick},
-         giveni={P\bibinitperiod},
-      }}%
-      {{hash=GL}{%
-         family={Girod},
-         familyi={G\bibinitperiod},
-         given={Lewis},
-         giveni={L\bibinitperiod},
-      }}%
-      {{hash=YK}{%
-         family={Yao},
-         familyi={Y\bibinitperiod},
-         given={Kung},
-         giveni={K\bibinitperiod},
-      }}%
-      {{hash=PG}{%
-         family={Patricelli},
-         familyi={P\bibinitperiod},
-         given={Gail},
-         giveni={G\bibinitperiod},
-      }}%
-      {{hash=DJL}{%
-         family={Deppe},
-         familyi={D\bibinitperiod},
-         given={Jill\bibnamedelima L},
-         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
-      }}%
-      {{hash=KAH}{%
-         family={Krakauer},
-         familyi={K\bibinitperiod},
-         given={Alan\bibnamedelima H},
-         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
-      }}%
-      {{hash=CC}{%
-         family={Clark},
-         familyi={C\bibinitperiod},
-         given={Christopher},
-         giveni={C\bibinitperiod},
-      }}%
-      {{hash=CKA}{%
-         family={Cortopassi},
-         familyi={C\bibinitperiod},
-         given={Kathryn\bibnamedelima A},
-         giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
-      }}%
-      {{hash=HSF}{%
-         family={Hanser},
-         familyi={H\bibinitperiod},
-         given={Sean\bibnamedelima F},
-         giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
-      }}%
-      {{hash=MB}{%
-         family={Mccowan},
-         familyi={M\bibinitperiod},
-         given={Brenda},
-         giveni={B\bibinitperiod},
-      }}%
-      {{hash=AAM}{%
-         family={Ali},
-         familyi={A\bibinitperiod},
-         given={Andreas\bibnamedelima M},
-         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-      {{hash=KANG}{%
-         family={Kirschel},
-         familyi={K\bibinitperiod},
-         given={Alexander N.\bibnamedelima G.},
-         giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim
-  G\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{BDT+1}
-    \strng{fullhash}{BDTMDJCPGLYKPGDJLKAHCCCKAHSFMBAAMKANG1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2011}
-    \field{labeldatesource}{year}
-    \field{sortinit}{B}
-    \field{sortinithash}{B}
-    \verb{doi}
-    \verb 10.1111/j.1365-2664.2011.01993.x
-    \endverb
-    \field{pages}{758\bibrangedash 767}
-    \field{title}{{Acoustic monitoring in terrestrial environments using
-  microphone arrays : applications , technological considerations and
-  prospectus}}
-    \field{volume}{48}
-    \verb{file}
-    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
-    \verb ed/Blumstein et al. - 2011 - Acoustic monitoring in terrestrial envir
-    \verb onments using microphone arrays applications , technological consider
-    \verb .pdf:pdf
-    \endverb
-    \field{journaltitle}{Journal of Applied Ecology}
-    \field{year}{2011}
-  \endentry
-
   \entry{Bradbury2011}{book}{}
     \name{author}{2}{}{%
       {{hash=BJ}{%
@@ -839,6 +725,97 @@
     \field{year}{2017}
   \endentry
 
+  \entry{Cardinale2012}{article}{}
+    \name{author}{11}{}{%
+      {{hash=CBJ}{%
+         family={Cardinale},
+         familyi={C\bibinitperiod},
+         given={Bradley\bibnamedelima J},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=DJE}{%
+         family={Duffy},
+         familyi={D\bibinitperiod},
+         given={J\bibnamedelima Emmett},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Gonzalez},
+         familyi={G\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HDU}{%
+         family={Hooper},
+         familyi={H\bibinitperiod},
+         given={David\bibnamedelima U},
+         giveni={D\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+      {{hash=PC}{%
+         family={Perrings},
+         familyi={P\bibinitperiod},
+         given={Charles},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=VP}{%
+         family={Venail},
+         familyi={V\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=NA}{%
+         family={Narwani},
+         familyi={N\bibinitperiod},
+         given={Anita},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MGM}{%
+         family={Mace},
+         familyi={M\bibinitperiod},
+         given={Georgina\bibnamedelima M},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=TD}{%
+         family={Tilman},
+         familyi={T\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=WDA}{%
+         family={Wardle},
+         familyi={W\bibinitperiod},
+         given={David\bibnamedelima A},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=KAP}{%
+         family={Kinzig},
+         familyi={K\bibinitperiod},
+         given={Ann\bibnamedelima P},
+         giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CBJ+1}
+    \strng{fullhash}{CBJDJEGAHDUPCVPNAMGMTDWDAKAP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \verb{doi}
+    \verb 10.1038/nature11148.Access
+    \endverb
+    \field{number}{4701}
+    \field{pages}{59\bibrangedash 67}
+    \field{title}{{Biodiversity loss and its impact on humanity Bradley}}
+    \field{volume}{486}
+    \verb{file}
+    \verb :home/jacob/Downloads/wardle{\_}d{\_}etal{\_}130415.pdf:pdf
+    \endverb
+    \field{journaltitle}{Nature}
+    \field{year}{2012}
+  \endentry
+
   \entry{Ceballos2015}{article}{}
     \name{author}{6}{}{%
       {{hash=CG}{%
@@ -899,6 +876,36 @@
     \endverb
     \field{journaltitle}{Science Advances}
     \field{year}{2015}
+  \endentry
+
+  \entry{Chapman2009}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CAD}{%
+         family={Chapman},
+         familyi={C\bibinitperiod},
+         given={A.\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Australian Biological Resources Study}%
+    }
+    \strng{namehash}{CAD1}
+    \strng{fullhash}{CAD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{edition}{2nd}
+    \field{isbn}{978 0 642 56861 8}
+    \field{pages}{3}
+    \field{title}{{Numbers of Living Species in Australia and the World}}
+    \list{location}{1}{%
+      {Toowoomba, Australia}%
+    }
+    \field{year}{2009}
   \endentry
 
   \entry{Chapman1989}{article}{}
@@ -1044,7 +1051,65 @@
     \verb sing-very-little-data.html
     \endverb
     \field{year}{2016}
-    \warn{\item Invalid format of field 'urldate'}
+    \field{urlday}{18}
+    \field{urlmonth}{08}
+    \field{urlyear}{2019}
+  \endentry
+
+  \entry{Cooley1964}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CJW}{%
+         family={Cooley},
+         familyi={C\bibinitperiod},
+         given={James\bibnamedelima W.},
+         giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=TJW}{%
+         family={Tukey},
+         familyi={T\bibinitperiod},
+         given={John\bibnamedelima W},
+         giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CJWTJW1}
+    \strng{fullhash}{CJWTJW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1964}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    An efficient method for the calculation of the interactions of a 2'
+  factorial ex- periment was introduced by Yates and is widely known by his
+  name. The generaliza- tion to 3' was given by Box et al. [1]. Good [2]
+  generalized these methods and gave elegant algorithms for which one class of
+  applications is the calculation of Fourier series. In their full generality,
+  Good's methods are applicable to certain problems in which one must multiply
+  an N-vector by an N X N matrix which can be factored into m sparse matrices,
+  where m is proportional to log N. This results inma procedure requiring a
+  number of operations proportional to N log N rather than N2. These methods
+  are applied here to the calculation of complex Fourier series. They are
+  useful in situations where the number of data points is, or can be chosen to
+  be, a highly composite number. The algorithm is here derived and presented in
+  a rather different form. Attention is given to the choice of N. It is also
+  shown how special advantage can be obtained in the use of a binary computer
+  with N = 2' and how the entire calculation can be performed within the array
+  of N data storage locations used for the given Fourier coefficients.%
+    }
+    \field{number}{90}
+    \field{pages}{297\bibrangedash 301}
+    \field{title}{{An Algorithm for the Machine Calculation of Complex Fourier
+  Series Author ( s ): James W . Cooley and John W . Tukey Published by :
+  American Mathematical Society Stable URL :
+  http://www.jstor.org/stable/2003354 REFERENCES Linked references are
+  available o}}
+    \field{volume}{19}
+    \verb{file}
+    \verb :home/jacob/Downloads/2003354.pdf:pdf
+    \endverb
+    \field{journaltitle}{Mathematics of Computation}
+    \field{year}{1964}
   \endentry
 
   \entry{Cuaron2008}{misc}{}
@@ -1438,6 +1503,132 @@
     \field{year}{2018}
   \endentry
 
+  \entry{Fourier1822}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FJBJ}{%
+         family={Fourier},
+         familyi={F\bibinitperiod},
+         given={J.\bibnamedelima B.\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim
+  J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Chez Firmin Didot, p{\`{e}}re et fils}%
+    }
+    \strng{namehash}{FJBJ1}
+    \strng{fullhash}{FJBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1822}
+    \field{labeldatesource}{year}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{abstract}{%
+    applicability for this approach.%
+    }
+    \verb{doi}
+    \verb 10.1038/005319a0
+    \endverb
+    \field{issn}{0028-0836}
+    \field{number}{121}
+    \field{title}{{Th{\'{e}}orie analytique de la chaleur}}
+    \field{volume}{5}
+    \verb{file}
+    \verb :home/jacob/Downloads/Fourier (1822) - Analytical Theory of Heat.pdf:
+    \verb pdf
+    \endverb
+    \field{year}{1822}
+  \endentry
+
+  \entry{Gibb2019}{article}{}
+    \name{author}{4}{}{%
+      {{hash=GR}{%
+         family={Gibb},
+         familyi={G\bibinitperiod},
+         given={Rory},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=BE}{%
+         family={Browning},
+         familyi={B\bibinitperiod},
+         given={Ella},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=GKP}{%
+         family={Glover-Kapfer},
+         familyi={G\bibinitperiod-K\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=JKE}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={Kate\bibnamedelima E.},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \keyw{acoustic indices,bioacoustics,biodiversity monitoring,deep
+  learning,ecoacoustics,ecological monitoring,machine learning,passive acoustic
+  monitoring}
+    \strng{namehash}{GR+1}
+    \strng{fullhash}{GRBEGKPJKE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    1. High-throughput environmental sensing technologies are increasingly
+  central to global monitoring of the ecological impacts of human activities.
+  In particular, the recent boom in passive acoustic sensors has provided
+  efficient, noninvasive, and taxonomically broad means to study wildlife
+  populations and communities, and monitor their responses to environmental
+  change. However, until recently, technological costs and constraints have
+  largely confined research in passive acoustic monitoring (PAM) to a handful
+  of taxonomic groups (e.g., bats, cetaceans, birds), often in relatively
+  small-scale, proof-of-concept studies. 2. The arrival of low-cost,
+  open-source sensors is now rapidly expanding access to PAM technologies,
+  making it vital to evaluate where these tools can contribute to broader
+  efforts in ecology and biodiversity research. Here, we synthesise and
+  critically assess the current emerging opportunities and challenges for PAM
+  for ecological assessment and monitoring of both species populations and
+  communities. 3. We show that terrestrial and marine PAM applications are
+  advancing rapidly, facilitated by emerging sensor hardware, the application
+  of machine learning innovations to automated wildlife call identification,
+  and work towards developing acoustic biodiversity indicators. However, the
+  broader scope of PAM research remains constrained by limited availability of
+  reference sound libraries and open-source audio processing tools, especially
+  for the tropics, and lack of clarity around the accuracy, transferability and
+  limitations of many analytical methods. 4. In order to improve possibilities
+  for PAM globally, we emphasise the need for col-laborative work to develop
+  standardised survey and analysis protocols, publicly archived sound
+  libraries, multiyear audio datasets, and a more robust theoretical and
+  analytical framework for monitoring vocalising animal communities. K E Y W O
+  R D S acoustic indices, bioacoustics, biodiversity monitoring, deep learning,
+  ecoacoustics, ecological monitoring, machine learning, passive acoustic
+  monitoring This is an open access article under the terms of the Creative
+  Commons Attribution License, which permits use, distribution and reproduction
+  in any medium, provided the original work is properly cited.%
+    }
+    \verb{doi}
+    \verb 10.1111/2041-210X.13101
+    \endverb
+    \field{issn}{2041210X}
+    \field{number}{2}
+    \field{pages}{169\bibrangedash 185}
+    \field{title}{{Emerging opportunities and challenges for passive acoustics
+  in ecological assessment and monitoring}}
+    \field{volume}{10}
+    \verb{file}
+    \verb :home/jacob/Downloads/Gibb{\_}et{\_}al-2019-Methods{\_}in{\_}Ecology{
+    \verb \_}and{\_}Evolution.pdf:pdf
+    \endverb
+    \field{journaltitle}{Methods in Ecology and Evolution}
+    \field{year}{2019}
+  \endentry
+
   \entry{Glorot2011}{inproceedings}{}
     \name{author}{3}{}{%
       {{hash=GX}{%
@@ -1774,6 +1965,94 @@
     \endverb
     \field{journaltitle}{Methods in Ecology and Evolution}
     \field{year}{2018}
+  \endentry
+
+  \entry{Hobinger2012}{article}{}
+    \name{author}{5}{}{%
+      {{hash=HT}{%
+         family={H{\"{o}}binger},
+         familyi={H\bibinitperiod},
+         given={Tamara},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Schindler},
+         familyi={S\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SBS}{%
+         family={Seaman},
+         familyi={S\bibinitperiod},
+         given={Benjamin\bibnamedelima S.},
+         giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=WT}{%
+         family={Wrbka},
+         familyi={W\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=WA}{%
+         family={Weissenhofer},
+         familyi={W\bibinitperiod},
+         given={Anton},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Land use change,Landscape corridor,Landscape
+  metrics,MSPA,Morphological spatial pattern analysis,Oil palms,Piedras Blancas
+  National Park}
+    \strng{namehash}{HT+1}
+    \strng{fullhash}{HTSSSBSWTWA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    Human activities often cause changes and homogenization in landscape
+  structure. To investigate the impact of changing cultivation systems on
+  structural and functional aspects of a tropical agroforestry system, we
+  developed satellite based land cover maps of the La Gamba area in
+  southwestern Costa Rica and refined them by mapping fine-scale linear
+  landscape elements. Performing a landscape pattern analysis, we compared
+  eight sections of the study area by landscape metrics. Furthermore we
+  performed a Morphological spatial pattern analysis (MSPA) for hypothetical
+  non-forest, forest generalist and forest specialist species, and compared the
+  current situation to a possible future scenario with double the area covered
+  by oil palm plantations after a virtual conversion of other agricultural
+  patches. The heterogeneous rural sections clearly differed from the
+  homogeneous forests and especially pasture-dominated rural sections included
+  many diverse, small and elongated patches, many linear landscape elements but
+  few big plantations. According to the scenario with double the area covered
+  by oil palm plantations, non-forest species lost large parts of their
+  habitat, while forest species mainly lost corridors. The protection of
+  natural landscape elements that support wildlife movement between forest
+  areas is of major importance, particularly as the globally increasing
+  cultivation of oil palm is significantly altering many tropical land mosaics,
+  including the countryside of La Gamba. We propose the establishment of eight
+  least cost path corridor routes in the study area to make the agricultural
+  area pervious for wildlife. {\textcopyright} 2011 Springer Science+Business
+  Media B.V.%
+    }
+    \verb{doi}
+    \verb 10.1007/s10457-011-9425-0
+    \endverb
+    \field{issn}{01674366}
+    \field{number}{3}
+    \field{pages}{367\bibrangedash 381}
+    \field{title}{{Impact of oil palm plantations on the structure of the
+  agroforestry mosaic of La Gamba, southern Costa Rica: Potential implications
+  for biodiversity}}
+    \field{volume}{85}
+    \verb{file}
+    \verb :home/jacob/Downloads/Hbingeretal{\_}2011{\_}oilpalmplantationsCostar
+    \verb ica{\_}AgroforestSyst.pdf:pdf
+    \endverb
+    \field{journaltitle}{Agroforestry Systems}
+    \field{year}{2012}
   \endentry
 
   \entry{Kalan2016}{article}{}
@@ -2380,6 +2659,256 @@
     \field{year}{2015}
   \endentry
 
+  \entry{Pacheco2000}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PLF}{%
+         family={Pacheco},
+         familyi={P\bibinitperiod},
+         given={Luis\bibnamedelima F.},
+         giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=SJA}{%
+         family={Simonetti},
+         familyi={S\bibinitperiod},
+         given={Javier\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PLFSJA1}
+    \strng{fullhash}{PLFSJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2000}
+    \field{labeldatesource}{year}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{abstract}{%
+    To assess the genetic consequences for a Neotropical tree of the loss of
+  its main seed disperser, we compared the genetic structure of Inga ingoides
+  in a site where the spider monkey (Ateles paniscus) was abundant and a site
+  where it had been eliminated by subsistence hunting. Gene flow should be
+  reduced in the site where the spider monkey is absent, and there should be a
+  corresponding subpopulation differentiation of seedlings within the spatial
+  range of the movements of these primates in the absence of between-site
+  differences in allelic frequencies. At the microhabitat (family) scale,
+  seedlings growing under parent plants should be genetically more related in
+  the absence of the spider monkey than in its presence. Subpopulation
+  differentiation was smaller where the spider monkey was present (four loci,
+  FST= O.O11) than where it was absent (four loci, FST= O.053) for the first
+  year of study, but not for the second year (three loci, FST= O.005 vs.
+  O.003). The number of alleles in common among seedlings growing under parent
+  plants was smaller in the presence of the spider monkey than in its absence,
+  showing family genetic structure in the first generation for both years of
+  study (Mann-Whitney, z = -2.17, p = 0.03 and z = -2.72, p = O.O06 for 1996
+  and 1997, respectively). This family genetic structure in the first
+  generation should accelerate the development of population genetic structure.
+  Development of genetic structure might result in demographic changes, one of
+  which would be a fitness reduction if the species were self-incompatible, as
+  suggested for Inga by available evidence. Large birds and mammals are the
+  main targets of subsistence hunting in the Neotropics. Extinction of
+  seed-dispersing frugivores may result in pronounced changes in the
+  demographic and genetic structure of tree species in Neotropical forests.%
+    }
+    \verb{doi}
+    \verb 10.1046/j.1523-1739.2000.99182.x
+    \endverb
+    \field{issn}{08888892}
+    \field{number}{6}
+    \field{pages}{1766\bibrangedash 1775}
+    \field{title}{{Genetic structure of a mimosoid tree deprived of its seed
+  disperser, spider monkey}}
+    \field{volume}{14}
+    \verb{file}
+    \verb :home/jacob/Downloads/Pacheco{\_}et{\_}al-2000-Conservation{\_}Biolog
+    \verb y.pdf:pdf
+    \endverb
+    \field{journaltitle}{Conservation Biology}
+    \field{year}{2000}
+  \endentry
+
+  \entry{Rocchini2018}{article}{}
+    \name{author}{21}{}{%
+      {{hash=RD}{%
+         family={Rocchini},
+         familyi={R\bibinitperiod},
+         given={Duccio},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Luque},
+         familyi={L\bibinitperiod},
+         given={Sandra},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=PN}{%
+         family={Pettorelli},
+         familyi={P\bibinitperiod},
+         given={Nathalie},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=BL}{%
+         family={Bastin},
+         familyi={B\bibinitperiod},
+         given={Lucy},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=DD}{%
+         family={Doktor},
+         familyi={D\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=FN}{%
+         family={Faedi},
+         familyi={F\bibinitperiod},
+         given={Nicol{\`{o}}},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=FH}{%
+         family={Feilhauer},
+         familyi={F\bibinitperiod},
+         given={Hannes},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=FJB}{%
+         family={F{\'{e}}ret},
+         familyi={F\bibinitperiod},
+         given={Jean\bibnamedelima Baptiste},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=FGM}{%
+         family={Foody},
+         familyi={F\bibinitperiod},
+         given={Giles\bibnamedelima M.},
+         giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=GY}{%
+         family={Gavish},
+         familyi={G\bibinitperiod},
+         given={Yoni},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Godinho},
+         familyi={G\bibinitperiod},
+         given={Sergio},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KWE}{%
+         family={Kunin},
+         familyi={K\bibinitperiod},
+         given={William\bibnamedelima E.},
+         giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=LA}{%
+         family={Lausch},
+         familyi={L\bibinitperiod},
+         given={Angela},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LPJ}{%
+         family={Leit{\~{a}}o},
+         familyi={L\bibinitperiod},
+         given={Pedro\bibnamedelima J.},
+         giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Marcantonio},
+         familyi={M\bibinitperiod},
+         given={Matteo},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Neteler},
+         familyi={N\bibinitperiod},
+         given={Markus},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RC}{%
+         family={Ricotta},
+         familyi={R\bibinitperiod},
+         given={Carlo},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Schmidtlein},
+         familyi={S\bibinitperiod},
+         given={Sebastian},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=VP}{%
+         family={Vihervaara},
+         familyi={V\bibinitperiod},
+         given={Petteri},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Wegmann},
+         familyi={W\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NH}{%
+         family={Nagendra},
+         familyi={N\bibinitperiod},
+         given={Harini},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \keyw{Kohonen self-organizing feature maps,Rao's Q diversity index,remote
+  sensing,satellite imagery,sparse generalized dissimilarity model,spectral
+  species concept,$\beta$-diversity}
+    \strng{namehash}{RD+1}
+    \strng{fullhash}{RDLSPNBLDDFNFHFJBFGMGYGSKWELALPJMMNMRCSSVPWMNH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{year}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    1. Biodiversity includes multiscalar and multitemporal structures and
+  processes, with different levels of functional organization, from genetic to
+  ecosystemic levels. One of the mostly used methods to infer biodiversity is
+  based on taxonomic approaches and community ecology theories. However,
+  gathering extensive data in the field is difficult due to logistic problems,
+  especially when aiming at modelling biodiversity changes in space and time,
+  which assumes statistically sound sampling schemes. In this context, airborne
+  or satellite remote sensing allows information to be gathered over wide areas
+  in a reasonable time. 2. Most of the biodiversity maps obtained from remote
+  sensing have been based on the inference of species richness by regression
+  analysis. On the contrary, estimating compositional turnover
+  ($\beta$-diversity) might add crucial information related to relative
+  abundance of different species instead of just richness. Presently, few
+  studies have addressed the measurement of species compositional turnover from
+  space. 3. Extending on previous work, in this manuscript, we propose novel
+  techniques to measure $\beta$-diversity from airborne or satellite remote
+  sensing, mainly based on: (1) multivariate statistical analysis, (2) the
+  spectral species concept, (3) self-organizing feature maps, (4)
+  multidimensional distance matrices, and the (5) Rao's Q diversity. Each of
+  these measures addresses one or several issues related to turnover
+  measurement. This manuscript is the first methodological example encompassing
+  (and enhancing) most of the available methods for estimating
+  $\beta$-diversity from remotely sensed imagery and potentially relating them
+  to species diversity in the field.%
+    }
+    \verb{doi}
+    \verb 10.1111/2041-210X.12941
+    \endverb
+    \field{issn}{2041210X}
+    \field{number}{8}
+    \field{pages}{1787\bibrangedash 1798}
+    \field{title}{{Measuring $\beta$-diversity by remote sensing: A challenge
+  for biodiversity monitoring}}
+    \field{volume}{9}
+    \verb{file}
+    \verb :home/jacob/Downloads/Rocchini{\_}et{\_}al-2018-Methods{\_}in{\_}Ecol
+    \verb ogy{\_}and{\_}Evolution.pdf:pdf
+    \endverb
+    \field{journaltitle}{Methods in Ecology and Evolution}
+    \field{year}{2018}
+  \endentry
+
   \entry{VanRoosmalen1985}{article}{}
     \name{author}{1}{}{%
       {{hash=vRMGM}{%
@@ -2524,70 +3053,6 @@
     \field{volume}{8}
     \field{journaltitle}{Journal of the Acoustical Society of America}
     \field{year}{1937}
-  \endentry
-
-  \entry{Stevenson2015}{article}{}
-    \name{author}{6}{}{%
-      {{hash=SBC}{%
-         family={Stevenson},
-         familyi={S\bibinitperiod},
-         given={Ben\bibnamedelima C},
-         giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
-      }}%
-      {{hash=BDL}{%
-         family={Borchers},
-         familyi={B\bibinitperiod},
-         given={David\bibnamedelima L},
-         giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
-      }}%
-      {{hash=AR}{%
-         family={Altwegg},
-         familyi={A\bibinitperiod},
-         given={Res},
-         giveni={R\bibinitperiod},
-      }}%
-      {{hash=SJ}{%
-         family={Swift},
-         familyi={S\bibinitperiod},
-         given={J},
-         giveni={J},
-      }}%
-      {{hash=GDM}{%
-         family={Gillespie},
-         familyi={G\bibinitperiod},
-         given={Douglas\bibnamedelima M},
-         giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-      {{hash=MGJ}{%
-         family={Measey},
-         familyi={M\bibinitperiod},
-         given={G\bibnamedelima John},
-         giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{SBC+1}
-    \strng{fullhash}{SBCBDLARSJGDMMGJ1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2015}
-    \field{labeldatesource}{year}
-    \field{sortinit}{S}
-    \field{sortinithash}{S}
-    \verb{doi}
-    \verb 10.1111/2041-210X.12291
-    \endverb
-    \field{pages}{38\bibrangedash 48}
-    \field{title}{{A general framework for animal density estimation from
-  acoustic detections across a fixed microphone array}}
-    \field{volume}{6}
-    \verb{file}
-    \verb :home/jacob/.local/share/data/Mendeley Ltd./Mendeley Desktop/Download
-    \verb ed/Stevenson et al. - 2015 - A general framework for animal density e
-    \verb stimation from acoustic detections across a fixed microphone array.pd
-    \verb f:pdf
-    \endverb
-    \field{journaltitle}{Methods in Ecology and Evolution}
-    \field{year}{2015}
   \endentry
 
   \entry{Stowell2014}{article}{}
@@ -3002,6 +3467,48 @@
     \endverb
     \field{journaltitle}{Methods in Ecology and Evolution}
     \field{year}{2016}
+  \endentry
+
+  \entry{Zeilis2008}{article}{}
+    \name{author}{3}{}{%
+      {{hash=ZA}{%
+         family={Zeilis},
+         familyi={Z\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KC}{%
+         family={Kleiber},
+         familyi={K\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=JS}{%
+         family={Jackman},
+         familyi={J\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \keyw{glm,hurdle model,negative binomial model,poisson model,zero-inflated
+  model}
+    \strng{namehash}{ZAKCJS1}
+    \strng{fullhash}{ZAKCJS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{year}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{number}{8}
+    \field{pages}{1\bibrangedash 25}
+    \field{title}{{Regression Models for Count Data in R Achim}}
+    \field{volume}{27}
+    \verb{file}
+    \verb :home/jacob/Downloads/v27i08.pdf:pdf
+    \endverb
+    \field{journaltitle}{Journal of Statistical Software}
+    \field{year}{2008}
   \endentry
 
   \entry{Zilli2014}{article}{}
